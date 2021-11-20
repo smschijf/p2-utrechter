@@ -1,0 +1,2 @@
+<?= $profile ?> 
+<?php $renderer->content() ?>

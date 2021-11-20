@@ -1,0 +1,33 @@
+{
+  "dependencies": {
+    "ajv": "^6.10.2",
+    "hyperapp": "^1.2.9",
+    "locutus": "^2.0.14",
+    "sortablejs": "^1.10.0-rc3",
+    "yubinbango-core": "https://github.com/nasum/yubinbango-core"
+  },
+  "scripts": {
+    "build": "parcel build --dist-dir asset src/asset/admin_form.js src/asset/admin_forms.js src/asset/admin_orders.js src/asset/admin_settings.js src/asset/admin.scss src/asset/front.js src/asset/front.scss src/asset/noimage.png src/asset/MaterialIcons-Regular.*",
+    "dist-clean": "rimraf \"./dist/*\"",
+    "dist-root": "cpx \"./{.babelrc,.parcelrc,aforms.toml.sample,aforms.php,composer.json,composer.lock,LICENSE,package.json,readme.txt,readme_ja.txt,yarn.lock}\" ./dist",
+    "dist-asset": "cpx \"./asset/**/*.*\" ./dist/asset",
+    "dist-src": "cpx \"./src/**/*.*\" ./dist/src",
+    "dist-vendor": "cpx \"./vendor/**/*\" ./dist/vendor",
+    "dist": "run-s dist-clean dist-root dist-asset dist-src dist-vendor"
+  },
+  "devDependencies": {
+    "@babel/core": "^7.16.0",
+    "@babel/plugin-transform-react-jsx": "^7.16.0",
+    "@babel/preset-env": "^7.16.0",
+    "@babel/preset-react": "^7.16.0",
+    "@parcel/transformer-sass": "^2.0.0",
+    "cpx": "^1.5.0",
+    "npm-run-all": "^4.1.5",
+    "parcel": "^2.0.0",
+    "rimraf": "^3.0.0",
+    "sass": "^1.22.1"
+  }, 
+  "resolutions": {
+    "sass": "~1.32"
+  }
+}

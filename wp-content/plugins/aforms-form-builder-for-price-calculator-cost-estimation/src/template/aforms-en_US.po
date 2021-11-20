@@ -1,0 +1,1454 @@
+# SOME DESCRIPTIVE TITLE.
+# Copyright (C) YEAR THE PACKAGE'S COPYRIGHT HOLDER
+# This file is distributed under the same license as the PACKAGE package.
+# FIRST AUTHOR <EMAIL@ADDRESS>, YEAR.
+#
+#, fuzzy
+msgid ""
+msgstr ""
+"Project-Id-Version: PACKAGE VERSION\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2019-08-12 00:58+0900\n"
+"PO-Revision-Date: 2019-08-12 00:58+0900\n"
+"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"Language-Team: LANGUAGE <LL@li.org>\n"
+"Language: \n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: \n"
+"X-Generator: Eazy Po 0.9.5.3\n"
+
+#: admin/form.php:5
+msgid "Select Image"
+msgstr ""
+
+#: admin/form.php:6
+msgid "OK"
+msgstr ""
+
+#: admin/form.php:7
+msgid "Open Media"
+msgstr ""
+
+#: admin/form.php:8
+msgid "Clear"
+msgstr ""
+
+#: admin/form.php:9 admin/formList.php:8
+msgid "Title"
+msgstr ""
+
+#: admin/form.php:10
+msgid "The name for you to distinguish the form. The end-users don't see this."
+msgstr ""
+
+#: admin/form.php:11
+msgid "Shortcode"
+msgstr ""
+
+#: admin/form.php:12
+msgid "Embed the shortcode above in a post or a page to display this."
+msgstr ""
+
+#: admin/form.php:13
+msgid "Commit Changes"
+msgstr ""
+
+#: admin/form.php:14
+msgid "Discard Changes"
+msgstr ""
+
+#: admin/form.php:17
+msgid "New Auto Item"
+msgstr ""
+
+#: admin/form.php:18
+msgid "New Selector Item"
+msgstr ""
+
+#: admin/form.php:19
+msgid "New Option"
+msgstr ""
+
+#: admin/form.php:20
+msgid "Auto Item"
+msgstr ""
+
+#: admin/form.php:21
+msgid "Selector Item"
+msgstr ""
+
+#: admin/form.php:22
+msgid "Option"
+msgstr ""
+
+#: admin/form.php:23 admin/formList.php:16
+msgid "Duplicate"
+msgstr ""
+
+#: admin/form.php:24 admin/orderList.php:20
+msgid "Delete"
+msgstr ""
+
+#: admin/form.php:25
+msgid "Close Nav"
+msgstr ""
+
+#: admin/form.php:26
+msgid "Open Nav"
+msgstr ""
+
+#: admin/form.php:27
+msgid "Name"
+msgstr ""
+
+#: admin/form.php:28 front/form.php:14
+msgid "Category"
+msgstr ""
+
+#: admin/form.php:29
+msgid "Input here if you want to display a category name in a order detail."
+msgstr ""
+
+#: admin/form.php:30 admin/form.php:40 front/form.php:18
+msgid "Price"
+msgstr ""
+
+#: admin/form.php:31
+msgid "Labels"
+msgstr ""
+
+#: admin/form.php:32
+msgid "Required Labels"
+msgstr ""
+
+#: admin/form.php:33
+msgid "Image"
+msgstr ""
+
+#: admin/form.php:34
+msgid "Note"
+msgstr ""
+
+#: admin/form.php:35
+msgid "You can write in HTML."
+msgstr ""
+
+#: admin/form.php:36
+msgid "Multiple Selection"
+msgstr ""
+
+#: admin/form.php:37
+msgid "Allow"
+msgstr ""
+
+#: admin/form.php:38
+msgid "Disallow"
+msgstr ""
+
+#: admin/form.php:39
+msgid "Regular Price"
+msgstr ""
+
+#: admin/form.php:41
+msgid "You can display the manufacturer's desired price."
+msgstr ""
+
+#: admin/form.php:42
+msgid "New Input Field"
+msgstr ""
+
+#: admin/form.php:43
+msgid "Additional Menu"
+msgstr ""
+
+#: admin/form.php:44
+msgid "Phone Number"
+msgstr ""
+
+#: admin/form.php:45
+msgid "Mail Address"
+msgstr ""
+
+#: admin/form.php:46
+msgid "Address"
+msgstr ""
+
+#: admin/form.php:47
+msgid "Checkbox"
+msgstr ""
+
+#: admin/form.php:48
+msgid "Radio Button"
+msgstr ""
+
+#: admin/form.php:49
+msgid "Text"
+msgstr ""
+
+#: admin/form.php:50
+msgid "Input Required"
+msgstr ""
+
+#: admin/form.php:51
+msgid "Required"
+msgstr ""
+
+#: admin/form.php:52
+msgid "Optional"
+msgstr ""
+
+#: admin/form.php:53
+msgid "Split Input Field"
+msgstr ""
+
+#: admin/form.php:54
+msgid "Split"
+msgstr ""
+
+#: admin/form.php:55
+msgid "Don't Split"
+msgstr ""
+
+#: admin/form.php:56
+msgid "Confirmation Input"
+msgstr ""
+
+#: admin/form.php:57
+msgid "Whether to have email address entered twice for confirmation."
+msgstr ""
+
+#: admin/form.php:58
+msgid "Confirm"
+msgstr ""
+
+#: admin/form.php:59
+msgid "Don't Confirm"
+msgstr ""
+
+#: admin/form.php:60
+msgid "Options"
+msgstr ""
+
+#: admin/form.php:61
+msgid "Separate them with \",\"."
+msgstr ""
+
+#: admin/form.php:62
+msgid "Number of Lines"
+msgstr ""
+
+#: admin/form.php:63
+msgid "Multiple Lines"
+msgstr ""
+
+#: admin/form.php:64
+msgid "1 Line"
+msgstr ""
+
+#: admin/form.php:65
+msgid "Width of Input Field"
+msgstr ""
+
+#: admin/form.php:66
+msgid "Nano"
+msgstr ""
+
+#: admin/form.php:67
+msgid "Mini"
+msgstr ""
+
+#: admin/form.php:68
+msgid "Small"
+msgstr ""
+
+#: admin/form.php:69
+msgid "Regular"
+msgstr ""
+
+#: admin/form.php:70
+msgid "Full"
+msgstr ""
+
+#: admin/form.php:71
+msgid "Up to 3 characters."
+msgstr ""
+
+#: admin/form.php:72
+msgid "Up to 5 characters."
+msgstr ""
+
+#: admin/form.php:73
+msgid "Up to 8 characters."
+msgstr ""
+
+#: admin/form.php:74
+msgid "Up to 13 characters."
+msgstr ""
+
+#: admin/form.php:75
+msgid "Full width"
+msgstr ""
+
+#: admin/form.php:76
+msgid "Subject"
+msgstr ""
+
+#: admin/form.php:77
+msgid "From Address"
+msgstr ""
+
+#: admin/form.php:78
+msgid "From Name"
+msgstr ""
+
+#: admin/form.php:79
+msgid "Notify To"
+msgstr ""
+
+#: admin/form.php:80
+msgid "You can also send a copy of the thank-you-mail to another address."
+msgstr ""
+
+#: admin/form.php:81
+msgid "Text Body"
+msgstr ""
+
+#: admin/form.php:82
+msgid "HTML Body"
+msgstr ""
+
+#: admin/form.php:83
+msgid "Leave here blank if you don't want to send email in HTML format."
+msgstr ""
+
+#: admin/form.php:84
+msgid "Save"
+msgstr ""
+
+#: admin/form.php:85
+msgid "Form Details"
+msgstr ""
+
+#: admin/form.php:86
+msgid "Form saved."
+msgstr ""
+
+#: admin/form.php:87 admin/orderList.php:15 admin/settings.php:12
+msgid "Dismiss this notice."
+msgstr ""
+
+#: admin/form.php:88
+msgid "General"
+msgstr ""
+
+#: admin/form.php:89
+msgid "Details"
+msgstr ""
+
+#: admin/form.php:90
+msgid "Attributes"
+msgstr ""
+
+#: admin/form.php:91
+msgid "Mail"
+msgstr ""
+
+#: admin/form.php:92
+msgid "should NOT be shorter than 1 characters"
+msgstr ""
+
+#: admin/form.php:93
+msgid "Changes committed. Be sure to save data before moving to another page."
+msgstr ""
+
+#: admin/form.php:94 admin/form.php:95
+msgid "should match pattern"
+msgstr ""
+
+#: admin/form.php:96 admin/formList.php:13
+msgid "Preview"
+msgstr ""
+
+#: admin/form.php:97
+msgid "Display Confirmation Screen"
+msgstr ""
+
+#: admin/form.php:98
+msgid "Display"
+msgstr ""
+
+#: admin/form.php:99
+msgid "Don't Display"
+msgstr ""
+
+#: admin/form.php:100
+msgid "Type"
+msgstr ""
+
+#: admin/form.php:101
+msgid "should match format \"uri\""
+msgstr ""
+
+#: admin/form.php:102
+msgid "Thanks Url"
+msgstr ""
+
+#: admin/form.php:103
+msgid "If you want to display another page after submitting the form, enter the URL."
+msgstr ""
+
+#: admin/formList.php:5
+msgid "Form List"
+msgstr ""
+
+#: admin/formList.php:6
+msgid "Add New"
+msgstr ""
+
+#: admin/formList.php:7
+msgid "ID"
+msgstr ""
+
+#: admin/formList.php:9
+msgid "Author"
+msgstr ""
+
+#: admin/formList.php:10
+msgid "Date"
+msgstr ""
+
+#: admin/formList.php:11
+msgid "Edit"
+msgstr ""
+
+#: admin/formList.php:12
+msgid "Trash"
+msgstr ""
+
+#: admin/formList.php:14
+msgid "Do You Want To Remove This Form?"
+msgstr ""
+
+#: admin/formList.php:15
+msgid "Form deleted."
+msgstr ""
+
+#: admin/formList.php:17
+msgid "Form duplicated."
+msgstr ""
+
+#: admin/orderList.php:11 front/form.php:21
+msgid "Subtotal"
+msgstr ""
+
+#: admin/orderList.php:12 front/form.php:22
+msgid "Tax"
+msgstr ""
+
+#: admin/orderList.php:13 front/form.php:23
+msgid "Total"
+msgstr ""
+
+#: admin/orderList.php:14
+msgid "Order List"
+msgstr ""
+
+#: admin/orderList.php:16
+msgid "Summary"
+msgstr ""
+
+#: admin/orderList.php:17
+msgid "Form"
+msgstr ""
+
+#: admin/orderList.php:18
+msgid "Customer"
+msgstr ""
+
+#: admin/orderList.php:19
+msgid "Close"
+msgstr ""
+
+#: admin/orderList.php:21
+msgid "Open"
+msgstr ""
+
+#: admin/orderList.php:22
+msgid "guest"
+msgstr ""
+
+#: admin/orderList.php:23
+msgid "There are no orders yet."
+msgstr ""
+
+#: admin/orderList.php:24
+msgid "Current Page"
+msgstr ""
+
+#: admin/orderList.php:25
+msgid "First Page"
+msgstr ""
+
+#: admin/orderList.php:26
+msgid "Prev Page"
+msgstr ""
+
+#: admin/orderList.php:27
+msgid "Next Page"
+msgstr ""
+
+#: admin/orderList.php:28
+msgid "Last Page"
+msgstr ""
+
+#: admin/orderList.php:29
+msgid "Input a valid page number."
+msgstr ""
+
+#: admin/orderList.php:30
+msgid "Do You Want To Remove This Order?"
+msgstr ""
+
+#: admin/orderList.php:31
+msgid "Order deleted."
+msgstr ""
+
+#: admin/settings.php:5
+msgid "Form Settings"
+msgstr ""
+
+#: admin/settings.php:6
+msgid "Round Down"
+msgstr ""
+
+#: admin/settings.php:7
+msgid "Round Up"
+msgstr ""
+
+#: admin/settings.php:8
+msgid "Round Off"
+msgstr ""
+
+#: admin/settings.php:9
+msgid "Truncate"
+msgstr ""
+
+#: admin/settings.php:10
+msgid "should be integer"
+msgstr ""
+
+#: admin/settings.php:11
+msgid "Settings saved."
+msgstr ""
+
+#: admin/settings.php:13
+msgid "Fraction Treatment"
+msgstr ""
+
+#: admin/settings.php:14
+msgid "Tax Included"
+msgstr ""
+
+#: admin/settings.php:15
+msgid "Tax Excluded"
+msgstr ""
+
+#: admin/settings.php:16
+msgid "Tax Rate"
+msgstr ""
+
+#: admin/settings.php:17
+msgid "%"
+msgstr ""
+
+#: admin/settings.php:18
+msgid "Fraction Processing"
+msgstr ""
+
+#: admin/settings.php:19
+msgid "Processing Precision"
+msgstr ""
+
+#: admin/settings.php:20
+msgid ""
+"The number of digits left by rounding. If \"1\" is specified, the processing "
+"result will be \"12.3\"."
+msgstr ""
+
+#: admin/settings.php:21
+msgid "Save Changes"
+msgstr ""
+
+#: admin/settings.php:22
+msgid "Tax Notation"
+msgstr ""
+
+#: front/form.php:13
+msgid "No"
+msgstr ""
+
+#: front/form.php:15
+msgid "Entry"
+msgstr ""
+
+#: front/form.php:16
+msgid "Unit Price"
+msgstr ""
+
+#: front/form.php:17
+msgid "Quantity"
+msgstr ""
+
+#: front/form.php:24
+msgid "required"
+msgstr ""
+
+#: front/form.php:25
+msgid "Input here"
+msgstr ""
+
+#: front/form.php:26
+msgid "Invalid"
+msgstr ""
+
+#: front/form.php:27
+msgid "Check here"
+msgstr ""
+
+#: front/form.php:28
+msgid "Select here"
+msgstr ""
+
+#: front/form.php:29
+msgid "Repeat here"
+msgstr ""
+
+#: front/form.php:30
+msgid "Zip"
+msgstr ""
+
+#: front/form.php:31
+msgid "To Confirmation Screen"
+msgstr ""
+
+#: front/form.php:32
+msgid "Your Name"
+msgstr ""
+
+#: front/form.php:33
+msgid "First Name"
+msgstr ""
+
+#: front/form.php:34
+msgid "Last Name"
+msgstr ""
+
+#: front/form.php:35
+msgid "info@example.com"
+msgstr ""
+
+#: front/form.php:36
+msgid "Confirm again"
+msgstr ""
+
+#: front/form.php:37
+msgid "03-1111-2222"
+msgstr "0-000-1234567"
+
+#: front/form.php:38
+msgid "000-0000"
+msgstr "00000"
+
+#: front/form.php:39
+msgid "Tokyo"
+msgstr "State"
+
+#: front/form.php:40
+msgid "Chiyoda-ku"
+msgstr "City"
+
+#: front/form.php:41
+msgid "1-1-1, Chiyoda"
+msgstr "Street"
+
+#: front/form.php:42
+msgid "Chiyoda mansion 8F"
+msgstr "Room"
+
+#: front/form.php:43
+msgid "Processing stopped due to preview mode."
+msgstr ""
+
+#: front/form.php:44
+msgid "Submit"
+msgstr ""
+
+#: front/form.php:45
+msgid "Back"
+msgstr ""
+
+#: front/form.php:46
+msgid "Please check your entry."
+msgstr ""
+
+#: App/Admin/FormRef.php:38
+msgid "Thank you for your order"
+msgstr ""
+
+#: App/Admin/FormRef.php:42
+msgid "Thank you for your order."
+msgstr ""
+
+#: App/Admin/FormRef.php:46
+msgid "New Form"
+msgstr ""
+
+#: App/Admin/FormDup.php:36
+msgid "%s Copy"
+msgstr ""
+
+#: Domain/MailComposer.php:28
+msgid "%s (x %s) %s %s"
+msgstr ""
+
+#: Domain/MailComposer.php:58
+msgid "== %s ==\n%s"
+msgstr ""
+
+#: a-forms.php:80
+msgid "Forms"
+msgstr ""
+
+#: a-forms.php:81
+msgid "Orders"
+msgstr ""
+
+#: front/form.php:47
+msgid "Hide Monitor"
+msgstr ""
+
+#: front/form.php:48
+msgid "Show Monitor"
+msgstr ""
+
+#: front/form.php:49
+msgid "Start Order"
+msgstr ""
+
+#: front/form.php:51
+msgid "Previous"
+msgstr ""
+
+#: front/form.php:52
+msgid "Next"
+msgstr ""
+
+#: front/form.php:53
+msgid "There exists uninput item."
+msgstr ""
+
+#: admin/form.php:104
+msgid "Navigator"
+msgstr ""
+
+#: admin/form.php:105
+msgid "Flow format"
+msgstr ""
+
+#: admin/form.php:106
+msgid "Wizard format"
+msgstr ""
+
+#: admin/form.php:107
+msgid "Price Checker"
+msgstr ""
+
+#: admin/form.php:108
+msgid "Equation"
+msgstr ""
+
+#: admin/form.php:109
+msgid "Threshold"
+msgstr ""
+
+#: admin/form.php:110
+msgid "Equal"
+msgstr ""
+
+#: admin/form.php:111
+msgid "Not Equal"
+msgstr ""
+
+#: admin/form.php:112
+msgid "Greater Than"
+msgstr ""
+
+#: admin/form.php:113
+msgid "Greater Equal"
+msgstr ""
+
+#: admin/form.php:114
+msgid "Less Than"
+msgstr ""
+
+#: admin/form.php:115
+msgid "Less Equal"
+msgstr ""
+
+#: admin/form.php:116
+msgid "Adds a fixed detail line."
+msgstr ""
+
+#: admin/form.php:117
+msgid "Monitors the estimated price and gives labels if condition is met."
+msgstr ""
+
+#: admin/form.php:118
+msgid "Creates a group of choices."
+msgstr ""
+
+#: admin/form.php:119
+msgid "Adds a detail line if selected."
+msgstr ""
+
+#: admin/form.php:120
+msgid "You can insert the following data into the text body."
+msgstr ""
+
+#: admin/form.php:121
+msgid "Order id"
+msgstr ""
+
+#: admin/form.php:122
+msgid "Detail lines"
+msgstr ""
+
+#: admin/form.php:123
+msgid "Total; In case of tax-excluded notation, subtotal and tax are included."
+msgstr ""
+
+#: admin/form.php:124
+msgid "Customer attributes"
+msgstr ""
+
+#: admin/form.php:125
+msgid "Customer name; Available only when using Name control."
+msgstr ""
+
+#: admin/form.php:126
+msgid "Customer mail address; Available only when using MailAddress control."
+msgstr ""
+
+#: front/form.php:54
+msgid "The form has been successfully submitted."
+msgstr ""
+
+#: front/form.php:55
+msgid "^[0-9]{3}-?[0-9]{4}$"
+msgstr "^[0-9]{5}$"
+
+#: front/form.php:56
+msgid "Checked"
+msgstr ""
+
+#: aforms.php:5
+msgid "Form builder for Cost estimation and ordering which you can customize straightforwardly. If you have any problems or feature requests for this plugin, also <strong>requests for installation or customization</strong>, please feel free to <a href=\"https://a-forms.com/en/contact/\" target=\"_blank\">contact us</a>."
+msgstr ""
+
+#: admin/form.php:127
+msgid "Separete with \",\". This item is availble only if all labels listed are satisfied."
+msgstr ""
+
+#: admin/form.php:128
+msgid "Separate with \",\". If the conditions are met, all the labels listed will be awarded."
+msgstr ""
+
+#: admin/form.php:129
+msgid "Separate with \",\". If this option is selected, all the labels listed will be awarded."
+msgstr ""
+
+#: admin/form.php:130
+msgid "New Quantity Item"
+msgstr ""
+
+#: admin/form.php:131
+msgid "Quantity Item"
+msgstr ""
+
+#: admin/form.php:132
+msgid "Fixed To 1"
+msgstr ""
+
+#: admin/form.php:133
+msgid "Allows Fraction"
+msgstr ""
+
+#: admin/form.php:134
+msgid "Input if you want to add a unit to the input field."
+msgstr ""
+
+#: admin/form.php:135
+msgid "Minimum Value"
+msgstr ""
+
+#: admin/form.php:136
+msgid "Maximum Value"
+msgstr ""
+
+#: front/form.php:57
+msgid "Too small"
+msgstr ""
+
+#: front/form.php:58
+msgid "Too large"
+msgstr ""
+
+#: admin/form.php:137
+msgid "Prompts to enter the quantity by hand."
+msgstr ""
+
+#: admin/form.php:138
+msgid "Initial Value"
+msgstr ""
+
+#: admin/form.php:139
+msgid "Unit"
+msgstr ""
+
+#: admin/form.php:140
+msgid "Can be empty."
+msgstr ""
+
+#: admin/form.php:142
+msgid "Off"
+msgstr ""
+
+#: admin/form.php:143
+msgid "On"
+msgstr ""
+
+#: admin/form.php:144
+msgid "Dropdown"
+msgstr ""
+
+#: front/form.php:59
+msgid "Please select"
+msgstr ""
+
+#: Domain/InputProcessor.php:220
+msgid "reCAPTCHA Result"
+msgstr ""
+
+#: admin/form.php:145
+msgid "Site Key"
+msgstr ""
+
+#: admin/form.php:146
+msgid "Secret Key"
+msgstr ""
+
+#: admin/form.php:147
+msgid "Action"
+msgstr ""
+
+#: admin/form.php:148
+msgid "Soft-Pass Score"
+msgstr ""
+
+#: admin/form.php:149
+msgid "If the score is lower than this value, AForms considers that the submission is somewhat unreliable and email notifications to administrators will be omitted."
+msgstr ""
+
+#: admin/form.php:150
+msgid "Failure Score"
+msgstr ""
+
+#: admin/form.php:151
+msgid "If the score is lower than this value, AForms blocks the submission and show an error to customer."
+msgstr ""
+
+#: admin/form.php:152
+msgid "A string that identifies the user's action. Refer: "
+msgstr ""
+
+#: admin/form.php:153
+msgid "Auto Completion"
+msgstr ""
+
+#: admin/form.php:154
+msgid "Choose a service to auto-complete address from zip code."
+msgstr ""
+
+#: admin/form.php:155
+msgid "None"
+msgstr ""
+
+#: admin/form.php:156
+msgid "Yubinbango (Japan)"
+msgstr ""
+
+#: admin/form.php:157
+msgid "Input Restriction"
+msgstr ""
+
+#: admin/form.php:158
+msgid "Japanese Hiragana"
+msgstr ""
+
+#: admin/form.php:159
+msgid "Japanese Katakana"
+msgstr ""
+
+#: front/form.php:60
+msgid "Input in Hiragana"
+msgstr ""
+
+#: front/form.php:61
+msgid "Input in Katakana"
+msgstr ""
+
+#: front/form.php:62
+msgid "optional"
+msgstr ""
+
+#: admin/form.php:160
+msgid "Price Checker (OBSOLETED)"
+msgstr ""
+
+#: admin/form.php:161
+msgid "Monitors the estimated price and gives labels if condition is met. This item is OBSOLETED and deleted in the near future."
+msgstr ""
+
+#: admin/form.php:162
+msgid "Price Watcher"
+msgstr ""
+
+#: admin/form.php:163
+msgid "Lower Limit Value"
+msgstr ""
+
+#: admin/form.php:164
+msgid "Leave this blank if there are no lower limit."
+msgstr ""
+
+#: admin/form.php:165
+msgid "Includes Lower Limit Value"
+msgstr ""
+
+#: admin/form.php:166
+msgid "Include"
+msgstr ""
+
+#: admin/form.php:167
+msgid "Don't Include"
+msgstr ""
+
+#: admin/form.php:168
+msgid "Includes Higher Limit Value"
+msgstr ""
+
+#: admin/form.php:169
+msgid "Higher Limit Value"
+msgstr ""
+
+#: admin/form.php:170
+msgid "Leave this blank if there are no higher limit."
+msgstr ""
+
+#: admin/form.php:171
+msgid "Monitors the estimated price and gives labels if the price is included in a spacified range."
+msgstr ""
+
+#: admin/orderList.php:32
+msgid ", "
+msgstr ""
+
+#: admin/form.php:172
+msgid "Multiple Checkbox"
+msgstr ""
+
+#: admin/form.php:173
+msgid "reCAPTCHA v3"
+msgstr ""
+
+#: admin/form.php:174
+msgid "Ribbons"
+msgstr ""
+
+#: admin/form.php:175, front/form.php:63
+msgid "SALE"
+msgstr ""
+
+#: admin/form.php:176, front/form.php:64
+msgid "RECOMMENDED"
+msgstr ""
+
+#: admin/form.php:178
+msgid "Slider Item"
+msgstr ""
+
+#: admin/form.php:179
+msgid "Prompts to enter the quantity with slider."
+msgstr ""
+
+#: admin/form.php:180
+msgid "Step Value"
+msgstr ""
+
+#: admin/form.php:181
+msgid "New Slider Item"
+msgstr ""
+
+#: admin/settings.php:26
+msgid "Calculation Rule"
+msgstr ""
+
+#: admin_settings.php:27
+msgid "Behavior"
+msgstr ""
+
+#: admin_settings.php:28
+msgid "Smooth Scroll"
+msgstr ""
+
+#: admin_settings.php:29
+msgid "Do Smooth Scroll"
+msgstr ""
+
+#: admin_settings.php:30
+msgid "Don't Smooth Scroll"
+msgstr ""
+
+#: admin/form.php:183
+msgid "The tax rate on common settings will be applied when you leave it blank."
+msgstr ""
+
+#: admin/form.php:185
+msgid "should be >= 0"
+msgstr ""
+
+#: admin/form.php:186
+msgid "%s's Copy"
+msgstr ""
+
+#: front/form.php:70
+msgid "Tax Class"
+msgstr ""
+
+#: front/form.php:71
+msgid "(%s%% applied)"
+msgstr ""
+
+#: front/form.php:72
+msgid "Tax (%s%%)"
+msgstr ""
+
+#: front/form.php:73
+msgid "(common %s%% applied)"
+msgstr ""
+
+#: front/form.php:74
+msgid "Tax (common %s%%)"
+msgstr ""
+
+#: MailCompoer.php:45
+msgid "%s: %s"
+msgstr ""
+
+#: admin/settings.php:27
+msgid "Words"
+msgstr ""
+
+#: WordMapper.php:86
+msgid "."
+msgstr ""
+
+#: WordMapper.php:87
+msgid ","
+msgstr ""
+
+#:
+msgid "%s items"
+msgstr ""
+
+#:
+msgid "#%s"
+msgstr ""
+
+#:
+msgid "$%s"
+msgstr ""
+
+#: admin/form.php:186
+msgid "If you leave this blank, no detail line will be added, even if it is selected."
+msgstr ""
+
+#: admin/form.php:187
+msgid "Extensions"
+msgstr ""
+
+#: admin/form.php:188
+msgid "Available Extensions"
+msgstr ""
+
+#: admin/form.php:189
+msgid "Check the extensions to use in this form."
+msgstr ""
+
+#: WordMapper.php:83
+msgid "Regular Unit Price"
+msgstr ""
+
+#: WordMapper.php:84
+msgid "Quotation Details"
+msgstr ""
+
+#: aforms.php:5
+msgid "Form builder for Cost estimation and custom order. Note that <a href=\"https://a-forms.com/ja/upgrade-to-v2/\" target=\"_blank\"><strong>v2 includes changes that are incompatible with v1</strong></a>. If you have any problems or feature requests for this plugin, please feel free to <a href=\"https://a-forms.com/en/contact/\" target=\"_blank\">contact us</a>."
+msgstr ""
+
+#: admin/form.php:190
+msgid "If Site Key or Secret Key is blank, this item has no effect."
+msgstr ""
+
+#: admin/form.php:191
+msgid "Monitoring Target"
+msgstr ""
+
+#: admin/form.php:192
+msgid "No Target"
+msgstr ""
+
+#: admin/form.php:193
+msgid "Monitors the specified quanaity and gives labels if the quantity is included in a specified range."
+msgstr ""
+
+#: admin/form.php:194
+msgid "Quantity Watcher"
+msgstr ""
+
+#: WordMapper.php:87
+msgid "Deselect"
+msgstr ""
+
+#: admin/form.php:195
+msgid "Option with Quantity"
+msgstr ""
+
+#: admin/form.php:196
+msgid "If quantity is set, adds a detail line."
+msgstr ""
+
+#: admin/form.php:197
+msgid "New Option with Quantity"
+msgstr ""
+
+#: admin/form.php:198
+msgid "unexpected character around: %s"
+msgstr ""
+
+#: admin/form.php:198
+msgid "%s: end of expression"
+msgstr ""
+
+#: admin/form.php:198
+msgid "%s: %s at %s"
+msgstr ""
+
+#: admin/form.php:198
+msgid "undefined function"
+msgstr ""
+
+#: admin/form.php:198
+msgid "unexpected token"
+msgstr ""
+
+#: admin/form.php:198
+msgid "too few arguments for"
+msgstr ""
+
+#: admin/form.php:198
+msgid "too many arguments for"
+msgstr ""
+
+#: admin/form.php:198
+msgid "unexpected operator"
+msgstr ""
+
+#: admin/form.php:198
+msgid "unexpected eoe token"
+msgstr ""
+
+# WordMapper.php:88
+msgid "evaluation error: overflow in %s"
+msgstr ""
+
+# WordMapper.php:89
+msgid "evaluation error: no-variable in %s"
+msgstr ""
+
+# WordMapper.php:90
+msgid "evaluation error: no-quantity in %s"
+msgstr ""
+
+# WordMapper.php:91
+msgid "evaluation error: undefined-calculation in %s"
+msgstr ""
+
+# WordMapper.php:92
+msgid "evaluation error: no-function in %s"
+msgstr ""
+
+# WordMapper.php:93
+msgid "evaluation error: unknown-term in %s"
+msgstr ""
+
+# WpOption.php:43
+msgid "[%s] Evaluation Errors occurred on your form"
+msgstr ""
+
+# WpOption.php:47
+msgid "Evaluation Errors occurred on your form.\n\n Form: %s [%d]\n\n%s"
+msgstr ""
+
+# admin/form.php:208
+msgid "Auto Quantity Item"
+msgstr ""
+
+# admin/form.php:209
+msgid "Generates a quantity value."
+msgstr ""
+
+# admin/form.php:210
+msgid "Adjustment Item"
+msgstr ""
+
+# admin/form.php:211
+msgid "Adds a fixed detail line to be excluded from the total."
+msgstr ""
+
+#: admin_form.php:212
+msgid "Stop"
+msgstr ""
+
+#: admin_form.php:213
+msgid "Stops form submission under certain conditions."
+msgstr ""
+
+#: admin_form.php:214
+msgid "Message"
+msgstr ""
+
+#: admin_form.php:215
+msgid "Separete with \",\". Form submission is stopped if all of the above conditions are met."
+msgstr ""
+
+#: admin_form.php:216
+msgid "Appears when the form submission was stopped."
+msgstr ""
+
+#: WordMapper.php:95
+msgid "Your document is ready."
+msgstr ""
+
+#: WordMapper.php:97
+msgid "Skip"
+msgstr ""
+
+#: admin_form.php:217
+msgid "File"
+msgstr ""
+
+#: admin_form.php:218
+msgid "Number of Files"
+msgstr ""
+
+#: admin_form.php:219
+msgid "1 File"
+msgstr ""
+
+#: admin_form.php:220
+msgid "Multiple Files"
+msgstr ""
+
+#: admin_form.php:221
+msgid "Acceptable Extensions"
+msgstr ""
+
+#: admin_form.php:222
+msgid "Enter extensions separated by commas, without dots. It is not case-sensitive."
+msgstr ""
+
+#: admin_form.php:223
+msgid "Max File Size"
+msgstr ""
+
+#: admin_form.php:224
+msgid "You can use magnifications of K, M, and G. If left blank, the size is unlimited."
+msgstr ""
+
+#: WordMapper:98
+msgid "Removing the file. Are you sure?"
+msgstr ""
+
+#: WordMapper.php:99
+msgid "Drop files here or click"
+msgstr ""
+
+#: WordMapper.php:100
+msgid "Wait for upload"
+msgstr ""
+
+#: admin/formList.php:4
+msgid "ERROR: Failed to retrieve the content for the following reason: "
+msgstr ""
+
+#: WordMapper.php:101
+msgid "x%s"
+msgstr ""
+
+#: WordMapper.php:102
+msgid "evaluation error: no matching clause in %s"
+msgstr ""
+
+#: template/formList.php:25
+msgid "https://a-forms.com/en/category/guide/"
+msgstr ""
+
+#: template/formList.php:26
+msgid "https://a-forms.com/en/category/ext/"
+msgstr ""
+
+#: template/formList.php:27
+msgid "Support Information"
+msgstr ""
+
+#: template/formList.php:28
+msgid "We have prepared %sguide pages%s on our official website. Please take a look."
+msgstr ""
+
+#: template/formList.php:29
+msgid "For questions, requests for new features, and bug reports, please use %sthe support form%s."
+msgstr ""
+
+#: template/formList.php:30
+msgid "Extend AForms"
+msgstr ""
+
+#: template/formList.php:31
+msgid "You can upgrade your quotation form by using %sextension softwares%s."
+msgstr ""
+
+#: template/formList.php:32
+msgid "Automatic issuance of PDF quotations"
+msgstr ""
+
+#: template/formList.php:33
+msgid "Customize the look and layout"
+msgstr ""
+
+#: template/formList.php:34
+msgid "Upload files from the form"
+msgstr ""

@@ -1,0 +1,18 @@
+{
+    "type": "project",
+    "name": "VividColors/AForms", 
+    "description": "Form builder wp-plugin for Cost estimation and ordering which you can customize straightforwardly.", 
+    "license": "MIT", 
+    "require": {
+        "tyam/bamboo": "*",
+        "justinrainbow/json-schema": "^5.2",
+        "aura/di": "3.*", 
+        "aura/payload": "*",
+        "leonelquinteros/php-toml": "^1.1"
+    }, 
+    "autoload": {
+        "psr-4": {
+            "AForms\\":"src"
+        }
+    }
+}

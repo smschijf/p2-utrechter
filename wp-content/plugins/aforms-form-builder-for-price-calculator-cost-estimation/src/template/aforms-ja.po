@@ -1,0 +1,1455 @@
+# SOME DESCRIPTIVE TITLE.
+# Copyright (C) YEAR THE PACKAGE'S COPYRIGHT HOLDER
+# This file is distributed under the same license as the PACKAGE package.
+# FIRST AUTHOR <EMAIL@ADDRESS>, YEAR.
+#
+msgid ""
+msgstr ""
+"Project-Id-Version: \n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2019-08-12 01:00+0900\n"
+"PO-Revision-Date: 2019-08-15 18:43+0900\n"
+"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"Language-Team: LANGUAGE <LL@li.org>\n"
+"Language: \n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: \n"
+"X-Generator: Eazy Po 0.9.5.3\n"
+
+#: admin/form.php:5
+msgid "Select Image"
+msgstr "画像を選択"
+
+#: admin/form.php:6
+msgid "OK"
+msgstr "OK"
+
+#: admin/form.php:7
+msgid "Open Media"
+msgstr "メディアを開く"
+
+#: admin/form.php:8
+msgid "Clear"
+msgstr "クリア"
+
+#: admin/form.php:9 admin/formList.php:8
+msgid "Title"
+msgstr "タイトル"
+
+#: admin/form.php:10
+msgid "The name for you to distinguish the form. The end-users don't see this."
+msgstr "運営者がフォームを区別するための名前です。お客様には表示されません。"
+
+#: admin/form.php:11
+msgid "Shortcode"
+msgstr "ショートコード"
+
+#: admin/form.php:12
+msgid "Embed the shortcode above in a post or a page to display this."
+msgstr "上記のショートコードを記事や固定ページに埋め込むと、そのページにこのフォームが表示されます。"
+
+#: admin/form.php:13
+msgid "Commit Changes"
+msgstr "変更を確定"
+
+#: admin/form.php:14
+msgid "Discard Changes"
+msgstr "変更を破棄"
+
+#: admin/form.php:17
+msgid "New Auto Item"
+msgstr "新しい自動項目"
+
+#: admin/form.php:18
+msgid "New Selector Item"
+msgstr "新しい選択項目"
+
+#: admin/form.php:19
+msgid "New Option"
+msgstr "新しい選択肢"
+
+#: admin/form.php:20
+msgid "Auto Item"
+msgstr "自動項目"
+
+#: admin/form.php:21
+msgid "Selector Item"
+msgstr "選択項目"
+
+#: admin/form.php:22
+msgid "Option"
+msgstr "選択肢"
+
+#: admin/form.php:23 admin/formList.php:16
+msgid "Duplicate"
+msgstr "複製"
+
+#: admin/form.php:24 admin/orderList.php:20
+msgid "Delete"
+msgstr "削除"
+
+#: admin/form.php:25
+msgid "Close Nav"
+msgstr "ナビを閉じる"
+
+#: admin/form.php:26
+msgid "Open Nav"
+msgstr "ナビを開く"
+
+#: admin/form.php:27
+msgid "Name"
+msgstr "名前"
+
+#: admin/form.php:28 front/form.php:14
+msgid "Category"
+msgstr "カテゴリー"
+
+#: admin/form.php:29
+msgid "Input here if you want to display a category name in a order detail."
+msgstr "明細にカテゴリーを表記したい場合は入力してください。"
+
+#: admin/form.php:30 admin/form.php:40 front/form.php:18
+msgid "Price"
+msgstr "金額"
+
+#: admin/form.php:31
+msgid "Labels"
+msgstr "ラベル"
+
+#: admin/form.php:32
+msgid "Required Labels"
+msgstr "必要ラベル"
+
+#: admin/form.php:33
+msgid "Image"
+msgstr "画像"
+
+#: admin/form.php:34
+msgid "Note"
+msgstr "注意書き"
+
+#: admin/form.php:35
+msgid "You can write in HTML."
+msgstr "HTMLで記述できます。"
+
+#: admin/form.php:36
+msgid "Multiple Selection"
+msgstr "複数選択"
+
+#: admin/form.php:37
+msgid "Allow"
+msgstr "可"
+
+#: admin/form.php:38
+msgid "Disallow"
+msgstr "不可"
+
+#: admin/form.php:39
+msgid "Regular Price"
+msgstr "通常価格"
+
+#: admin/form.php:41
+msgid "You can display the manufacturer's desired price."
+msgstr "メーカー希望価格などを表示できます。"
+
+#: admin/form.php:42
+msgid "New Input Field"
+msgstr "新しい入力欄"
+
+#: admin/form.php:43
+msgid "Additional Menu"
+msgstr "追加メニュー"
+
+#: admin/form.php:44
+msgid "Phone Number"
+msgstr "電話番号"
+
+#: admin/form.php:45
+msgid "Mail Address"
+msgstr "メールアドレス"
+
+#: admin/form.php:46
+msgid "Address"
+msgstr "住所"
+
+#: admin/form.php:47
+msgid "Checkbox"
+msgstr "チェックボックス"
+
+#: admin/form.php:48
+msgid "Radio Button"
+msgstr "ラジオボタン"
+
+#: admin/form.php:49
+msgid "Text"
+msgstr "テキスト"
+
+#: admin/form.php:50
+msgid "Input Required"
+msgstr "入力必須"
+
+#: admin/form.php:51
+msgid "Required"
+msgstr "必須"
+
+#: admin/form.php:52
+msgid "Optional"
+msgstr "自由"
+
+#: admin/form.php:53
+msgid "Split Input Field"
+msgstr "入力欄の分割"
+
+#: admin/form.php:54
+msgid "Split"
+msgstr "分割する"
+
+#: admin/form.php:55
+msgid "Don't Split"
+msgstr "分割しない"
+
+#: admin/form.php:56
+msgid "Confirmation Input"
+msgstr "確認入力"
+
+#: admin/form.php:57
+msgid "Whether to have email address entered twice for confirmation."
+msgstr "確認のためメールアドレスを二度入力してもらうかどうか。"
+
+#: admin/form.php:58
+msgid "Confirm"
+msgstr "確認を行う"
+
+#: admin/form.php:59
+msgid "Don't Confirm"
+msgstr "確認を行わない"
+
+#: admin/form.php:60
+msgid "Options"
+msgstr "選択肢"
+
+#: admin/form.php:61
+msgid "Separate them with \",\"."
+msgstr "「,」で区切ってください。"
+
+#: admin/form.php:62
+msgid "Number of Lines"
+msgstr "行数"
+
+#: admin/form.php:63
+msgid "Multiple Lines"
+msgstr "複数行"
+
+#: admin/form.php:64
+msgid "1 Line"
+msgstr "1行"
+
+#: admin/form.php:65
+msgid "Width of Input Field"
+msgstr "入力欄の幅"
+
+#: admin/form.php:66
+msgid "Nano"
+msgstr "極小"
+
+#: admin/form.php:67
+msgid "Mini"
+msgstr "小"
+
+#: admin/form.php:68
+msgid "Small"
+msgstr "小さめ"
+
+#: admin/form.php:69
+msgid "Regular"
+msgstr "標準"
+
+#: admin/form.php:70
+msgid "Full"
+msgstr "幅いっぱい"
+
+#: admin/form.php:71
+msgid "Up to 3 characters."
+msgstr "～半角3文字"
+
+#: admin/form.php:72
+msgid "Up to 5 characters."
+msgstr "～半角5文字"
+
+#: admin/form.php:73
+msgid "Up to 8 characters."
+msgstr "～半角8文字"
+
+#: admin/form.php:74
+msgid "Up to 13 characters."
+msgstr "～半角13文字"
+
+#: admin/form.php:75
+msgid "Full width"
+msgstr "幅いっぱい"
+
+#: admin/form.php:76
+msgid "Subject"
+msgstr "件名"
+
+#: admin/form.php:77
+msgid "From Address"
+msgstr "送信者アドレス"
+
+#: admin/form.php:78
+msgid "From Name"
+msgstr "送信者名"
+
+#: admin/form.php:79
+msgid "Notify To"
+msgstr "通知先アドレス"
+
+#: admin/form.php:80
+msgid "You can also send a copy of the thank-you-mail to another address."
+msgstr "サンキューメールのコピーを別のアドレスに送ることもできます。"
+
+#: admin/form.php:81
+msgid "Text Body"
+msgstr "テキスト本文"
+
+#: admin/form.php:82
+msgid "HTML Body"
+msgstr "HTML本文"
+
+#: admin/form.php:83
+msgid "Leave here blank if you don't want to send email in HTML format."
+msgstr "メールをHTML形式で送らない場合は空欄のままで構いません。"
+
+#: admin/form.php:84
+msgid "Save"
+msgstr "保存"
+
+#: admin/form.php:85
+msgid "Form Details"
+msgstr "フォーム詳細"
+
+#: admin/form.php:86
+msgid "Form saved."
+msgstr "フォームを保存しました。"
+
+#: admin/form.php:87 admin/orderList.php:15 admin/settings.php:12
+msgid "Dismiss this notice."
+msgstr "この通知を非表示にする"
+
+#: admin/form.php:88
+msgid "General"
+msgstr "全般"
+
+#: admin/form.php:89
+msgid "Details"
+msgstr "明細"
+
+#: admin/form.php:90
+msgid "Attributes"
+msgstr "お客様の属性"
+
+#: admin/form.php:91
+msgid "Mail"
+msgstr "メール"
+
+#: admin/form.php:92
+msgid "should NOT be shorter than 1 characters"
+msgstr "入力してください。"
+
+#: admin/form.php:93
+msgid "Changes committed. Be sure to save data before moving to another page."
+msgstr "変更を確定しました。他のページに移る前にデータを保存してください。"
+
+#: admin/form.php:94 admin/form.php:95
+msgid "should match pattern"
+msgstr "入力内容が適切でありません。"
+
+#: admin/form.php:96 admin/formList.php:13
+msgid "Preview"
+msgstr "プレビュー"
+
+#: admin/form.php:97
+msgid "Display Confirmation Screen"
+msgstr "確認画面を表示する"
+
+#: admin/form.php:98
+msgid "Display"
+msgstr "表示する"
+
+#: admin/form.php:99
+msgid "Don't Display"
+msgstr "表示しない"
+
+#: admin/form.php:100
+msgid "Type"
+msgstr "種別"
+
+#: admin/form.php:101
+msgid "should match format \"uri\""
+msgstr "入力内容が適切でありません。"
+
+#: admin/form.php:102
+msgid "Thanks Url"
+msgstr "サンクスURL"
+
+#: admin/form.php:103
+msgid "If you want to display another page after submitting the form, enter the URL."
+msgstr "フォーム送信後に他のページを表示する場合に、そのURLを入力してください。"
+
+#: admin/formList.php:5
+msgid "Form List"
+msgstr "フォーム一覧"
+
+#: admin/formList.php:6
+msgid "Add New"
+msgstr "新規追加"
+
+#: admin/formList.php:7
+msgid "ID"
+msgstr "ID"
+
+#: admin/formList.php:9
+msgid "Author"
+msgstr "作者"
+
+#: admin/formList.php:10
+msgid "Date"
+msgstr "日付"
+
+#: admin/formList.php:11
+msgid "Edit"
+msgstr "編集"
+
+#: admin/formList.php:12
+msgid "Trash"
+msgstr "ゴミ箱"
+
+#: admin/formList.php:14
+msgid "Do You Want To Remove This Form?"
+msgstr "このフォームを削除してよろしいですか？"
+
+#: admin/formList.php:15
+msgid "Form deleted."
+msgstr "フォームを削除しました。"
+
+#: admin/formList.php:17
+msgid "Form duplicated."
+msgstr "フォームを複製しました。"
+
+#: admin/orderList.php:11 front/form.php:21
+msgid "Subtotal"
+msgstr "小計"
+
+#: admin/orderList.php:12 front/form.php:22
+msgid "Tax"
+msgstr "消費税"
+
+#: admin/orderList.php:13 front/form.php:23
+msgid "Total"
+msgstr "合計"
+
+#: admin/orderList.php:14
+msgid "Order List"
+msgstr "注文一覧"
+
+#: admin/orderList.php:16
+msgid "Summary"
+msgstr "概要"
+
+#: admin/orderList.php:17
+msgid "Form"
+msgstr "フォーム"
+
+#: admin/orderList.php:18
+msgid "Customer"
+msgstr "お客様"
+
+#: admin/orderList.php:19
+msgid "Close"
+msgstr "閉じる"
+
+#: admin/orderList.php:21
+msgid "Open"
+msgstr "開く"
+
+#: admin/orderList.php:22
+msgid "guest"
+msgstr "ゲスト"
+
+#: admin/orderList.php:23
+msgid "There are no orders yet."
+msgstr "注文はまだありません。"
+
+#: admin/orderList.php:24
+msgid "Current Page"
+msgstr "現在のページ"
+
+#: admin/orderList.php:25
+msgid "First Page"
+msgstr "最初のページ"
+
+#: admin/orderList.php:26
+msgid "Prev Page"
+msgstr "前のページ"
+
+#: admin/orderList.php:27
+msgid "Next Page"
+msgstr "次のページ"
+
+#: admin/orderList.php:28
+msgid "Last Page"
+msgstr "最後のページ"
+
+#: admin/orderList.php:29
+msgid "Input a valid page number."
+msgstr "適切なページ番号を入力してください。"
+
+#: admin/orderList.php:30
+msgid "Do You Want To Remove This Order?"
+msgstr "この注文を削除しますか？"
+
+#: admin/orderList.php:31
+msgid "Order deleted."
+msgstr "注文を削除しました。"
+
+#: admin/settings.php:5
+msgid "Form Settings"
+msgstr "フォーム設定"
+
+#: admin/settings.php:6
+msgid "Round Down"
+msgstr "切り下げ"
+
+#: admin/settings.php:7
+msgid "Round Up"
+msgstr "切り上げ"
+
+#: admin/settings.php:8
+msgid "Round Off"
+msgstr "四捨五入"
+
+#: admin/settings.php:9
+msgid "Truncate"
+msgstr "切り落とし"
+
+#: admin/settings.php:10
+msgid "should be integer"
+msgstr "数値を入力してください"
+
+#: admin/settings.php:11
+msgid "Settings saved."
+msgstr "設定を保存しました。"
+
+#: admin/settings.php:13
+msgid "Fraction Treatment"
+msgstr "端数の取り扱い"
+
+#: admin/settings.php:14
+msgid "Tax Included"
+msgstr "内税表記"
+
+#: admin/settings.php:15
+msgid "Tax Excluded"
+msgstr "外税表記"
+
+#: admin/settings.php:16
+msgid "Tax Rate"
+msgstr "税率"
+
+#: admin/settings.php:17
+msgid "%"
+msgstr "%"
+
+#: admin/settings.php:18
+msgid "Fraction Processing"
+msgstr "端数の処理方法"
+
+#: admin/settings.php:19
+msgid "Processing Precision"
+msgstr "端数処理のケタ"
+
+#: admin/settings.php:20
+msgid ""
+"The number of digits left by rounding. If \"1\" is specified, the processing "
+"result will be \"12.3\"."
+msgstr "端数処理で残すケタ数です。「1」を指定すると処理結果が「12.3」のようになります。"
+
+#: admin/settings.php:21
+msgid "Save Changes"
+msgstr "変更を保存"
+
+#: admin/settings.php:22
+msgid "Tax Notation"
+msgstr "税の表記方法"
+
+#: front/form.php:13
+msgid "No"
+msgstr "#"
+
+#: front/form.php:15
+msgid "Entry"
+msgstr "項目"
+
+#: front/form.php:16
+msgid "Unit Price"
+msgstr "単価"
+
+#: front/form.php:17
+msgid "Quantity"
+msgstr "数量"
+
+#: front/form.php:24
+msgid "required"
+msgstr "必須"
+
+#: front/form.php:25
+msgid "Input here"
+msgstr "入力してください"
+
+#: front/form.php:26
+msgid "Invalid"
+msgstr "形式が正しくありません"
+
+#: front/form.php:27
+msgid "Check here"
+msgstr "チェックを入れてください"
+
+#: front/form.php:28
+msgid "Select here"
+msgstr "選択してください"
+
+#: front/form.php:29
+msgid "Repeat here"
+msgstr "同じ文字を入力してください"
+
+#: front/form.php:30
+msgid "Zip"
+msgstr "郵便番号"
+
+#: front/form.php:31
+msgid "To Confirmation Screen"
+msgstr "確認画面へ"
+
+#: front/form.php:32
+msgid "Your Name"
+msgstr " "
+
+#: front/form.php:33
+msgid "First Name"
+msgstr "姓"
+
+#: front/form.php:34
+msgid "Last Name"
+msgstr "名"
+
+#: front/form.php:35
+msgid "info@example.com"
+msgstr "info@example.com"
+
+#: front/form.php:36
+msgid "Confirm again"
+msgstr "確認のためもう一度"
+
+#: front/form.php:37
+msgid "03-1111-2222"
+msgstr "03-1111-2222"
+
+#: front/form.php:38
+msgid "000-0000"
+msgstr "000-0000"
+
+#: front/form.php:39
+msgid "Tokyo"
+msgstr "東京都"
+
+#: front/form.php:40
+msgid "Chiyoda-ku"
+msgstr "千代田区"
+
+#: front/form.php:41
+msgid "1-1-1, Chiyoda"
+msgstr "千代田1-1-1"
+
+#: front/form.php:42
+msgid "Chiyoda mansion 8F"
+msgstr "千代田マンション8F"
+
+#: front/form.php:43
+msgid "Processing stopped due to preview mode."
+msgstr "プレビューなので処理を中断しました。"
+
+#: front/form.php:44
+msgid "Submit"
+msgstr "送信"
+
+#: front/form.php:45
+msgid "Back"
+msgstr "戻る"
+
+#: front/form.php:46
+msgid "Please check your entry."
+msgstr "入力内容を確認してください。"
+
+#: App/Admin/FormRef.php:38
+msgid "Thank you for your order"
+msgstr "お申込みありがとうございます"
+
+#: App/Admin/FormRef.php:42
+msgid "Thank you for your order."
+msgstr "お申込みありがとうございます。"
+
+#: App/Admin/FormRef.php:46
+msgid "New Form"
+msgstr "新しいフォーム"
+
+#: App/Admin/FormDup.php:36
+msgid "%s Copy"
+msgstr "%s のコピー"
+
+#: Domain/MailComposer.php:28
+msgid "%s (x %s) %s %s"
+msgstr "%s (x %s) %s  %s"
+
+#: Domain/MailComposer.php:58
+msgid "== %s ==\n%s"
+msgstr ""
+"■ %s\n"
+"%s"
+
+#: a-forms.php:80
+msgid "Forms"
+msgstr "フォーム"
+
+#: a-forms.php:81
+msgid "Orders"
+msgstr "注文"
+
+#: front/form.php:47
+msgid "Hide Monitor"
+msgstr "モニターを非表示"
+
+#: front/form.php:48
+msgid "Show Monitor"
+msgstr "モニターを表示"
+
+#: front/form.php:49
+msgid "Start Order"
+msgstr "注文を始める"
+
+#: front/form.php:51
+msgid "Previous"
+msgstr "前へ"
+
+#: front/form.php:52
+msgid "Next"
+msgstr "次へ"
+
+#: front/form.php:53
+msgid "There exists uninput item."
+msgstr "未入力の項目があります。"
+
+#: admin/form.php:104
+msgid "Navigator"
+msgstr "ナビゲーション"
+
+#: admin/form.php:105
+msgid "Flow format"
+msgstr "フロー形式"
+
+#: admin/form.php:106
+msgid "Wizard format"
+msgstr "ウィザード形式"
+
+#: admin/form.php:107
+msgid "Price Checker"
+msgstr "料金チェッカー項目"
+
+#: admin/form.php:108
+msgid "Equation"
+msgstr "等式"
+
+#: admin/form.php:109
+msgid "Threshold"
+msgstr "境界値"
+
+#: admin/form.php:110
+msgid "Equal"
+msgstr "＝"
+
+#: admin/form.php:111
+msgid "Not Equal"
+msgstr "≠"
+
+#: admin/form.php:112
+msgid "Greater Than"
+msgstr "＞"
+
+#: admin/form.php:113
+msgid "Greater Equal"
+msgstr "≧"
+
+#: admin/form.php:114
+msgid "Less Than"
+msgstr "＜"
+
+#: admin/form.php:115
+msgid "Less Equal"
+msgstr "≦"
+
+#: admin/form.php:116
+msgid "Adds a fixed detail line."
+msgstr "固定の明細を追加します。"
+
+#: admin/form.php:117
+msgid "Monitors the estimated price and gives labels if condition is met."
+msgstr "見積額を監視して、条件を満たす場合にラベルを付与します。"
+
+#: admin/form.php:118
+msgid "Creates a group of choices."
+msgstr "選択肢のグループを作ります。"
+
+#: admin/form.php:119
+msgid "Adds a detail line if selected."
+msgstr "選択された場合に明細を追加します。"
+
+#: admin/form.php:120
+msgid "You can insert the following data into the text body."
+msgstr "下記のデータをテキスト本文に差し込みできます。"
+
+#: admin/form.php:121
+msgid "Order id"
+msgstr "注文ID"
+
+#: admin/form.php:122
+msgid "Detail lines"
+msgstr "明細"
+
+#: admin/form.php:123
+msgid "Total; In case of tax-excluded notation, subtotal and tax are included."
+msgstr "合計。外税表記の場合は小計と税を含みます。"
+
+#: admin/form.php:124
+msgid "Customer attributes"
+msgstr "お客様情報"
+
+#: admin/form.php:125
+msgid "Customer name; Available only when using Name control."
+msgstr "お客様の名前。名前コントロールを使う場合のみ有効です。"
+
+#: admin/form.php:126
+msgid "Customer mail address; Available only when using MailAddress control."
+msgstr "お客様のメールアドレス。メールアドレスコントロールを使う場合のみ有効です。"
+
+#: front/form.php:54
+msgid "The form has been successfully submitted."
+msgstr "フォームの送信に成功しました。"
+
+#: front/form.php:55
+msgid "^[0-9]{3}-?[0-9]{4}$"
+msgstr "^[0-9]{3}-?[0-9]{4}$"
+
+#: front/form.php:56
+msgid "Checked"
+msgstr "チェックしました"
+
+#: aforms.php:5
+msgid "Form builder for Cost estimation and ordering which you can customize straightforwardly. If you have any problems or feature requests for this plugin, also <strong>requests for installation or customization</strong>, please feel free to <a href=\"https://a-forms.com/en/contact/\" target=\"_blank\">contact us</a>."
+msgstr "注文カスタマイズ・料金シミュレーションのためのフォームビルダー。カスタマイズが容易です。ご意見・ご要望、また<strong>インストールやカスタマイズのご相談</strong>がありましたら、お気軽に<a href=\"https://a-forms.com/ja/contact/\" target=\"_blank\">お問い合わせ</a>ください。"
+
+#: admin/form.php:127
+msgid "Separete with \",\". This item is availble only if all labels listed are satisfied."
+msgstr "カンマ「,」で区切ってください。入力されたラベルすべてが付与されている場合のみ、この項目が有効になります。"
+
+#: admin/form.php:128
+msgid "Separate with \",\". If the conditions are met, all the labels listed will be awarded."
+msgstr "カンマ「,」で区切ってください。条件が満たされている場合に、入力されたラベルすべてが付与されます。"
+
+#: admin/form.php:129
+msgid "Separate with \",\". If this option is selected, all the labels listed will be awarded."
+msgstr "カンマ「,」で区切ってください。この選択肢が選ばれた場合に、入力されたラベルすべてが付与されます。"
+
+#: admin/form.php:130
+msgid "New Quantity Item"
+msgstr "新しい数量項目"
+
+#: admin/form.php:131
+msgid "Quantity Item"
+msgstr "数量項目"
+
+#: admin/form.php:132
+msgid "Fixed To 1"
+msgstr "1固定"
+
+#: admin/form.php:133
+msgid "Allows Fraction"
+msgstr "小数を許可"
+
+#: admin/form.php:134
+msgid "Input if you want to add a unit to the input field."
+msgstr "入力欄に単位を追記する場合は入力してください。"
+
+#: admin/form.php:135
+msgid "Minimum Value"
+msgstr "最小値"
+
+#: admin/form.php:136
+msgid "Maximum Value"
+msgstr "最大値"
+
+#: front/form.php:57
+msgid "Too small"
+msgstr "小さすぎます"
+
+#: front/form.php:58
+msgid "Too large"
+msgstr "大きすぎます"
+
+#: admin/form.php:137
+msgid "Prompts to enter the quantity by hand."
+msgstr "数量の手入力を促します。"
+
+#: admin/form.php:138
+msgid "Initial Value"
+msgstr "初期値"
+
+#: admin/form.php:139
+msgid "Unit"
+msgstr "単位"
+
+#: admin/form.php:140
+msgid "Can be empty."
+msgstr "空欄でも構いません。"
+
+#: admin/form.php:142
+msgid "Off"
+msgstr "オフ"
+
+#: admin/form.php:143
+msgid "On"
+msgstr "オン"
+
+#: admin/form.php:144
+msgid "Dropdown"
+msgstr "ドロップダウン"
+
+#: front/form.php:59
+msgid "Please select"
+msgstr "選択してください"
+
+#: Domain/InputProcessor.php:220
+msgid "reCAPTCHA Result"
+msgstr "reCAPTCHA結果"
+
+#: admin/form.php:145
+msgid "Site Key"
+msgstr "サイトキー"
+
+#: admin/form.php:146
+msgid "Secret Key"
+msgstr "シークレットキー"
+
+#: admin/form.php:147
+msgid "Action"
+msgstr "アクション"
+
+#: admin/form.php:148
+msgid "Soft-Pass Score"
+msgstr "Soft-Passのスコア"
+
+#: admin/form.php:149
+msgid "If the score is lower than this value, AForms considers that the submission is somewhat unreliable and email notifications to administrators will be omitted."
+msgstr "スコアがこの点数より低い場合、AFormsは申込を信頼せず、管理者へのメール通知を省略します。"
+
+#: admin/form.php:150
+msgid "Failure Score"
+msgstr "Failureのスコア"
+
+#: admin/form.php:151
+msgid "If the score is lower than this value, AForms blocks the submission and show an error to customer."
+msgstr "スコアがこの点数より低い場合、AFormsは申込をブロックしユーザーにエラーを表示します。"
+
+#: admin/form.php:152
+msgid "A string that identifies the user's action. Refer: "
+msgstr "ユーザーのアクションを識別する文字です。参考："
+
+#: admin/form.php:153
+msgid "Auto Completion"
+msgstr "自動補完"
+
+#: admin/form.php:154
+msgid "Choose a service to auto-complete address from zip code."
+msgstr "郵便番号から住所を自動補完するためのサービスを選んでください。"
+
+#: admin/form.php:155
+msgid "None"
+msgstr "なし"
+
+#: admin/form.php:156
+msgid "Yubinbango (Japan)"
+msgstr "Yubinbango（日本）"
+
+#: admin/form.php:157
+msgid "Input Restriction"
+msgstr "入力制限"
+
+#: admin/form.php:158
+msgid "Japanese Hiragana"
+msgstr "ひらがな"
+
+#: admin/form.php:159
+msgid "Japanese Katakana"
+msgstr "カタカナ"
+
+#: front/form.php:60
+msgid "Input in Hiragana"
+msgstr "ひらがなで入力してください"
+
+#: front/form.php:61
+msgid "Input in Katakana"
+msgstr "カタカナで入力してください"
+
+#: front/form.php:62
+msgid "optional"
+msgstr "任意"
+
+#: admin/form.php:160
+msgid "Price Checker (OBSOLETED)"
+msgstr "料金チェッカー項目（廃止）"
+
+#: admin/form.php:161
+msgid "Monitors the estimated price and gives labels if condition is met. This item is OBSOLETED and deleted in the near future."
+msgstr "見積額を監視して、条件を満たす場合にラベルを付与します。この項目は廃止されていて、近い将来に削除されます。"
+
+#: admin/form.php:162
+msgid "Price Watcher"
+msgstr "料金監視項目"
+
+#: admin/form.php:163
+msgid "Lower Limit Value"
+msgstr "下限値"
+
+#: admin/form.php:164
+msgid "Leave this blank if there are no lower limit."
+msgstr "下限が無い場合は空欄のままにしてください。"
+
+#: admin/form.php:165
+msgid "Includes Lower Limit Value"
+msgstr "下限値を含める"
+
+#: admin/form.php:166
+msgid "Include"
+msgstr "含める"
+
+#: admin/form.php:167
+msgid "Don't Include"
+msgstr "含めない"
+
+#: admin/form.php:168
+msgid "Includes Higher Limit Value"
+msgstr "上限値を含める"
+
+#: admin/form.php:169
+msgid "Higher Limit Value"
+msgstr "上限値"
+
+#: admin/form.php:170
+msgid "Leave this blank if there are no higher limit."
+msgstr "上限が無い場合は空欄のままにしてください。"
+
+#: admin/form.php:171
+msgid "Monitors the estimated price and gives labels if the price is included in a spacified range."
+msgstr "見積額を監視し、それが指定した範囲の中であればラベルを付与します。"
+
+#: admin/orderList.php:32
+msgid ", "
+msgstr "、"
+
+#: admin/form.php:172
+msgid "Multiple Checkbox"
+msgstr "複数チェックボックス"
+
+#: admin/form.php:173
+msgid "reCAPTCHA v3"
+msgstr "reCAPTCHA v3"
+
+#: admin/form.php:174
+msgid "Ribbons"
+msgstr "リボン"
+
+#: admin/form.php:175, front/form.php:63
+msgid "SALE"
+msgstr "SALE"
+
+#: admin/form.php:176, front/form.php:64
+msgid "RECOMMENDED"
+msgstr "おすすめ"
+
+#: admin/form.php:178
+msgid "Slider Item"
+msgstr "スライダー項目"
+
+#: admin/form.php:179
+msgid "Prompts to enter the quantity with slider."
+msgstr "スライダーで数量の入力を促します。"
+
+#: admin/form.php:180
+msgid "Step Value"
+msgstr "刻み値"
+
+#: admin/form.php:181
+msgid "New Slider Item"
+msgstr "新しいスライダー項目"
+
+#: admin/settings.php:26
+msgid "Calculation Rule"
+msgstr "計算ルール"
+
+#: admin_settings.php:27
+msgid "Behavior"
+msgstr "挙動"
+
+#: admin_settings.php:28
+msgid "Smooth Scroll"
+msgstr "スムーススクロール"
+
+#: admin_settings.php:29
+msgid "Do Smooth Scroll"
+msgstr "スムーススクロールをする"
+
+#: admin_settings.php:30
+msgid "Don't Smooth Scroll"
+msgstr "スムーススクロールをしない"
+
+#: admin/form.php:183
+msgid "The tax rate on common settings will be applied when you leave it blank."
+msgstr "空欄の場合はフォーム設定の税率になります。"
+
+#: admin/form.php:185
+msgid "should be >= 0"
+msgstr "0以上にしてください。"
+
+#: admin/form.php:186
+msgid "%s's Copy"
+msgstr "%s のコピー"
+
+#: front/form.php:70
+msgid "Tax Class"
+msgstr "税区分"
+
+#: front/form.php:71
+msgid "(%s%% applied)"
+msgstr "(%s%%適用)"
+
+#: front/form.php:72
+msgid "Tax (%s%%)"
+msgstr "消費税(%s%%)"
+
+#: front/form.php:73
+msgid "(common %s%% applied)"
+msgstr " "
+
+#: front/form.php:74
+msgid "Tax (common %s%%)"
+msgstr "消費税(%s%%)"
+
+#: MailCompoer.php:45
+msgid "%s: %s"
+msgstr "%s：%s"
+
+#: admin/settings.php:27
+msgid "Words"
+msgstr "文言"
+
+#: WordMapper.php:86
+msgid "."
+msgstr "."
+
+#: WordMapper.php:87
+msgid ","
+msgstr ","
+
+#:
+msgid "%s items"
+msgstr "%s個の項目"
+
+#:
+msgid "#%s"
+msgstr "#%s"
+
+#:
+msgid "$%s"
+msgstr "%s円"
+
+#: admin/form.php:186
+msgid "If you leave this blank, no detail line will be added, even if it is selected."
+msgstr "空欄のままにしておくと、選択されても明細行は追加されません。"
+
+#: admin/form.php:187
+msgid "Extensions"
+msgstr "拡張"
+
+#: admin/form.php:188
+msgid "Available Extensions"
+msgstr "利用可能な拡張"
+
+#: admin/form.php:189
+msgid "Check the extensions to use in this form."
+msgstr "このフォームで使う拡張にチェックを入れてください。"
+
+#: WordMapper.php:83
+msgid "Regular Unit Price"
+msgstr "通常単価"
+
+#: WordMapper.php:84
+msgid "Quotation Details"
+msgstr "見積の詳細"
+
+#: aforms.php:5
+msgid "Form builder for Cost estimation and custom order. Note that <a href=\"https://a-forms.com/ja/upgrade-to-v2/\" target=\"_blank\"><strong>v2 includes changes that are incompatible with v1</strong></a>. If you have any problems or feature requests for this plugin, please feel free to <a href=\"https://a-forms.com/en/contact/\" target=\"_blank\">contact us</a>."
+msgstr "注文カスタマイズ・料金シミュレーションのためのフォームビルダー。<a href=\"https://a-forms.com/ja/upgrade-to-v2/\" target=\"_blank\"><strong>v2にはv1とは非互換な変更が含まれます</strong></a>のでご注意ください。ご意見・ご要望のある方はお気軽に<a href=\"https://a-forms.com/ja/contact/\" target=\"_blank\">お問い合わせ</a>ください。"
+
+#: admin/form.php:190
+msgid "If Site Key or Secret Key is blank, this item has no effect."
+msgstr "サイトキーやシークレットキーが空欄の場合、この部品は効果を発揮しません。"
+
+#: admin/form.php:191
+msgid "Monitoring Target"
+msgstr "監視対象"
+
+#: admin/form.php:192
+msgid "No Target"
+msgstr "対象なし"
+
+#: admin/form.php:193
+msgid "Monitors the specified quanaity and gives labels if the quantity is included in a specified range."
+msgstr "指定された数量を監視し、その量が指定の範囲に含まれていたらラベルを付与します。"
+
+#: admin/form.php:194
+msgid "Quantity Watcher"
+msgstr "数量監視項目"
+
+#: WordMapper.php:87
+msgid "Deselect"
+msgstr "選択解除"
+
+#: admin/form.php:195
+msgid "Option with Quantity"
+msgstr "数量付き選択肢"
+
+#: admin/form.php:196
+msgid "If quantity is set, adds a detail line."
+msgstr "数量が設定されたら明細行を追加します。"
+
+#: admin/form.php:197
+msgid "New Option with Quantity"
+msgstr "新しい数量付き選択肢"
+
+#: admin/form.php:198
+msgid "unexpected character around: %s"
+msgstr "右記付近に予測外の文字があります: %s"
+
+#: admin/form.php:198
+msgid "%s: end of expression"
+msgstr "%s: 式の終端"
+
+#: admin/form.php:198
+msgid "%s: %s at %s"
+msgstr "%s: %s （%s文字目）"
+
+#: admin/form.php:198
+msgid "undefined function"
+msgstr "未定義の関数"
+
+#: admin/form.php:198
+msgid "unexpected token"
+msgstr "予測外の句"
+
+#: admin/form.php:198
+msgid "too few arguments for"
+msgstr "関数の引数が足りません"
+
+#: admin/form.php:198
+msgid "too many arguments for"
+msgstr "関数の引数が多すぎます"
+
+#: admin/form.php:198
+msgid "unexpected operator"
+msgstr "予測外の演算子"
+
+#: admin/form.php:198
+msgid "unexpected eoe token"
+msgstr "予測外の式の終端"
+
+# WordMapper.php:88
+msgid "evaluation error: overflow in %s"
+msgstr "計算エラー: 右の式でオーバーフローが発生 %s"
+
+# WordMapper.php:89
+msgid "evaluation error: no-variable in %s"
+msgstr "計算エラー: 右の式で未定義の変数を参照 %s"
+
+# WordMapper.php:90
+msgid "evaluation error: no-quantity in %s"
+msgstr "計算エラー: 右の式で未定義の数量を参照 %s"
+
+# WordMapper.php:91
+msgid "evaluation error: undefined-calculation in %s"
+msgstr "計算エラー: 右の式で未定義の計算が発生 %s"
+
+# WordMapper.php:92
+msgid "evaluation error: no-function in %s"
+msgstr "計算エラー: 右の式で未定義の関数を参照 %s"
+
+# WordMapper.php:93
+msgid "evaluation error: unknown-term in %s"
+msgstr "計算エラー: 右の式で未定義の句に遭遇 %s"
+
+# WpOption.php:43
+msgid "[%s] Evaluation Errors occurred on your form"
+msgstr "[%s] フォームで計算エラーが発生しました"
+
+# WpOption.php:47
+msgid "Evaluation Errors occurred on your form.\n\n Form: %s [%d]\n\n%s"
+msgstr "フォームで計算エラーが発生しました。\n\nフォーム：%s [%d]\n\n%s"
+
+# admin/form.php:208
+msgid "Auto Quantity Item"
+msgstr "自動数量項目"
+
+# admin/form.php:209
+msgid "Generates a quantity value."
+msgstr "数量を作り出します。"
+
+# admin/form.php:210
+msgid "Adjustment Item"
+msgstr "調整項目"
+
+# admin/form.php:211
+msgid "Adds a fixed detail line to be excluded from the total."
+msgstr "合計から除外される固定の明細行を追加します。"
+
+#: admin_form.php:212
+msgid "Stop"
+msgstr "ストップ"
+
+#: admin_form.php:213
+msgid "Stops form submission under certain conditions."
+msgstr "指定した状況下でフォーム送信をストップします。"
+
+#: admin_form.php:214
+msgid "Message"
+msgstr "メッセージ"
+
+#: admin_form.php:215
+msgid "Separete with \",\". Form submission is stopped if all of the above conditions are met."
+msgstr "カンマ「,」で区切ってください。上記の条件すべてが満たされている場合にフォーム送信はストップされます。"
+
+#: admin_form.php:216
+msgid "Appears when the form submission was stopped."
+msgstr "フォームの送信がストップした場合に表示されます。"
+
+#: WordMapper.php:95
+msgid "Your document is ready."
+msgstr "ドキュメントの準備ができました。"
+
+#: WordMapper.php:97
+msgid "Skip"
+msgstr "スキップ"
+
+#: admin_form.php:217
+msgid "File"
+msgstr "ファイル"
+
+#: admin_form.php:218
+msgid "Number of Files"
+msgstr "ファイル数"
+
+#: admin_form.php:219
+msgid "1 File"
+msgstr "1ファイル"
+
+#: admin_form.php:220
+msgid "Multiple Files"
+msgstr "複数ファイル"
+
+#: admin_form.php:221
+msgid "Acceptable Extensions"
+msgstr "許可する拡張子"
+
+#: admin_form.php:222
+msgid "Enter extensions separated by commas, without dots. It is not case-sensitive."
+msgstr "ドット無しの拡張子をカンマ(,)区切りで入力してください。大文字小文字は区別しません。"
+
+#: admin_form.php:223
+msgid "Max File Size"
+msgstr "最大のファイルサイズ"
+
+#: admin_form.php:224
+msgid "You can use magnifications of K, M, and G. If left blank, the size is unlimited."
+msgstr "K、M、Gの倍率を使えます。空欄のままにしておくとサイズは無制限になります。"
+
+#: WordMapper:98
+msgid "Removing the file. Are you sure?"
+msgstr "ファイルを取り除きます。よろしいですか？"
+
+#: WordMapper.php:99
+msgid "Drop files here or click"
+msgstr "ファイルをドロップ or クリック"
+
+#: WordMapper.php:100
+msgid "Wait for upload"
+msgstr "アップロードをお待ちください"
+
+#: admin/formList.php:4
+msgid "ERROR: Failed to retrieve the content for the following reason: "
+msgstr "エラー：次の理由によりコンテンツの取得に失敗しました："
+
+#: WordMapper.php:101
+msgid "x%s"
+msgstr "x%s"
+
+#: WordMapper.php:102
+msgid "evaluation error: no matching clause in %s"
+msgstr "計算エラー: 右の式にて一致する句がありません %s"
+
+#: template/formList.php:25
+msgid "https://a-forms.com/en/category/guide/"
+msgstr "https://a-forms.com/ja/category/guide/"
+
+#: template/formList.php:26
+msgid "https://a-forms.com/en/category/ext/"
+msgstr "https://a-forms.com/ja/category/ext/"
+
+#: template/formList.php:27
+msgid "Support Information"
+msgstr "サポート情報"
+
+#: template/formList.php:28
+msgid "We have prepared %sguide pages%s on our official website. Please take a look."
+msgstr "公式サイトに%sガイドページ%sを用意してあります。ぜひご覧ください。"
+
+#: template/formList.php:29
+msgid "For questions, requests for new features, and bug reports, please use %sthe support form%s."
+msgstr "ご質問、機能追加のご要望、不具合の報告は%sサポートフォーム%sをご利用ください。"
+
+#: template/formList.php:30
+msgid "Extend AForms"
+msgstr "AFormsを拡張できます"
+
+#: template/formList.php:31
+msgid "You can upgrade your quotation form by using %sextension softwares%s."
+msgstr "%s拡張ソフト%sを使えば見積フォームをグレードアップできます。"
+
+#: template/formList.php:32
+msgid "Automatic issuance of PDF quotations"
+msgstr "PDF見積書の自動発行"
+
+#: template/formList.php:33
+msgid "Customize the look and layout"
+msgstr "見た目やレイアウトのカスタマイズ"
+
+#: template/formList.php:34
+msgid "Upload files from the form"
+msgstr "フォームからファイルをアップロード"

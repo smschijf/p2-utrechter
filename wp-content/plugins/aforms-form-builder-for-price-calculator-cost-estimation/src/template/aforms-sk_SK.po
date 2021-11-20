@@ -1,0 +1,1152 @@
+# SOME DESCRIPTIVE TITLE.
+# Copyright (C) YEAR THE PACKAGE'S COPYRIGHT HOLDER
+# This file is distributed under the same license as the PACKAGE package.
+# FIRST AUTHOR <EMAIL@ADDRESS>, YEAR.
+#
+#, fuzzy
+msgid ""
+msgstr ""
+"Project-Id-Version: PACKAGE VERSION\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2019-08-12 00:58+0900\n"
+"PO-Revision-Date: 2019-08-12 00:58+0900\n"
+"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"Language-Team: LANGUAGE <LL@li.org>\n"
+"Language: \n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: \n"
+"X-Generator: Eazy Po 0.9.5.3\n"
+
+#: admin/form.php:5
+msgid "Select Image"
+msgstr "Vyber obrázok"
+
+#: admin/form.php:6
+msgid "OK"
+msgstr "Ok"
+
+#: admin/form.php:7
+msgid "Open Media"
+msgstr "Otvor médiá"
+
+#: admin/form.php:8
+msgid "Clear"
+msgstr "Vyčistiť"
+
+#: admin/form.php:9 admin/formList.php:8
+msgid "Title"
+msgstr "Názov"
+
+#: admin/form.php:10
+msgid "The name for you to distinguish the form. The end-users don't see this."
+msgstr "Názov formulára v systéme, ostatní užívatelia ho neuvidia."
+
+#: admin/form.php:11
+msgid "Shortcode"
+msgstr "shortcode"
+
+#: admin/form.php:12
+msgid "Embed the shortcode above in a post or a page to display this."
+msgstr "Vlož shortcode uvedený vyššie do článku alebo na stránku pre zobrazenie."
+
+#: admin/form.php:13
+msgid "Commit Changes"
+msgstr "Potvrď zmeny"
+
+#: admin/form.php:14
+msgid "Discard Changes"
+msgstr "Zruš zmeny"
+
+#: admin/form.php:15
+msgid "$copyPrefix"
+msgstr ""
+
+#: admin/form.php:16
+msgid "$copySuffix"
+msgstr ""
+
+#: admin/form.php:17
+msgid "New Auto Item"
+msgstr "Nová auto-položka"
+
+#: admin/form.php:18
+msgid "New Selector Item"
+msgstr "Nový výber"
+
+#: admin/form.php:19
+msgid "New Option"
+msgstr "Nová položka"
+
+#: admin/form.php:20
+msgid "Auto Item"
+msgstr "Auto-položka"
+
+#: admin/form.php:21
+msgid "Selector Item"
+msgstr "Výber"
+
+#: admin/form.php:22
+msgid "Option"
+msgstr "Položka"
+
+#: admin/form.php:23 admin/formList.php:16
+msgid "Duplicate"
+msgstr "Duplikovať"
+
+#: admin/form.php:24 admin/orderList.php:20
+msgid "Delete"
+msgstr "Vymazať"
+
+#: admin/form.php:25
+msgid "Close Nav"
+msgstr "Zavrieť"
+
+#: admin/form.php:26
+msgid "Open Nav"
+msgstr "Otvoriť"
+
+#: admin/form.php:27
+msgid "Name"
+msgstr "Meno"
+
+#: admin/form.php:28 front/form.php:14
+msgid "Category"
+msgstr "Kategória"
+
+#: admin/form.php:29
+msgid "Input here if you want to display a category name in a order detail."
+msgstr "Vlož sem, ak chceš zobraziť kategóriu v detailoch objednávky"
+
+#: admin/form.php:30 admin/form.php:40 front/form.php:18
+msgid "Price"
+msgstr "Cena"
+
+#: admin/form.php:31
+msgid "Labels"
+msgstr "Značky"
+
+#: admin/form.php:32
+msgid "Required Labels"
+msgstr "Povinné značky"
+
+#: admin/form.php:33
+msgid "Image"
+msgstr "Obrázok"
+
+#: admin/form.php:34
+msgid "Note"
+msgstr "Poznámka"
+
+#: admin/form.php:35
+msgid "You can write in HTML."
+msgstr "Môžeš vložiť HTML kód"
+
+#: admin/form.php:36
+msgid "Multiple Selection"
+msgstr "Viacnásobný výber"
+
+#: admin/form.php:37
+msgid "Allow"
+msgstr "Povoliť"
+
+#: admin/form.php:38
+msgid "Disallow"
+msgstr "Zamietnuť"
+
+#: admin/form.php:39
+msgid "Regular Price"
+msgstr "Bežná cena"
+
+#: admin/form.php:41
+msgid "You can display the manufacturer's desired price."
+msgstr "Môžeš zobraziť výrobcom odporúčanú cenu."
+
+#: admin/form.php:42
+msgid "New Input Field"
+msgstr "Nové pole písania"
+
+#: admin/form.php:43
+msgid "Additional Menu"
+msgstr "Dodatočná ponuka"
+
+#: admin/form.php:44
+msgid "Phone Number"
+msgstr "Telefónne číslo"
+
+#: admin/form.php:45
+msgid "Mail Address"
+msgstr "Emailová adresa"
+
+#: admin/form.php:46
+msgid "Address"
+msgstr "Adresa"
+
+#: admin/form.php:47
+msgid "Checkbox"
+msgstr "Zaškrtávacie políčko"
+
+#: admin/form.php:48
+msgid "Radio Button"
+msgstr "Tlačidlo výberu"
+
+#: admin/form.php:49
+msgid "Text"
+msgstr "Text"
+
+#: admin/form.php:50
+msgid "Input Required"
+msgstr "Povinná položka"
+
+#: admin/form.php:51
+msgid "Required"
+msgstr "Povinné"
+
+#: admin/form.php:52
+msgid "Optional"
+msgstr "Voliteľné"
+
+#: admin/form.php:53
+msgid "Split Input Field"
+msgstr "Rozdeliť pole písania"
+
+#: admin/form.php:54
+msgid "Split"
+msgstr "Rozdeliť"
+
+#: admin/form.php:55
+msgid "Don't Split"
+msgstr "Nerozdeliť"
+
+#: admin/form.php:56
+msgid "Confirmation Input"
+msgstr "Potvrdzovacie políčko"
+
+#: admin/form.php:57
+msgid "Whether to have email address entered twice for confirmation."
+msgstr "Majú byť emailové adresy písané dva krát pre potvrdenie."
+
+#: admin/form.php:58
+msgid "Confirm"
+msgstr "Potvrď"
+
+#: admin/form.php:59
+msgid "Don't Confirm"
+msgstr "Zruš"
+
+#: admin/form.php:60
+msgid "Options"
+msgstr "Možnosti"
+
+#: admin/form.php:61
+msgid "Separate them with \",\"."
+msgstr "Oddeľte pomocou \",\"."
+
+#: admin/form.php:62
+msgid "Number of Lines"
+msgstr "Počet riadkov"
+
+#: admin/form.php:63
+msgid "Multiple Lines"
+msgstr "Viac riadkov"
+
+#: admin/form.php:64
+msgid "1 Line"
+msgstr "1 riadok"
+
+#: admin/form.php:65
+msgid "Width of Input Field"
+msgstr "Šírka vstupného políčka"
+
+#: admin/form.php:66
+msgid "Nano"
+msgstr "Nano"
+
+#: admin/form.php:67
+msgid "Mini"
+msgstr "Mini"
+
+#: admin/form.php:68
+msgid "Small"
+msgstr "Malé"
+
+#: admin/form.php:69
+msgid "Regular"
+msgstr "Bežné"
+
+#: admin/form.php:70
+msgid "Full"
+msgstr "Široké"
+
+#: admin/form.php:71
+msgid "$nanoNote"
+msgstr ""
+
+#: admin/form.php:72
+msgid "$miniNote"
+msgstr ""
+
+#: admin/form.php:73
+msgid "$smallNote"
+msgstr ""
+
+#: admin/form.php:74
+msgid "$regularNote"
+msgstr ""
+
+#: admin/form.php:75
+msgid "$fullNote"
+msgstr ""
+
+#: admin/form.php:76
+msgid "Subject"
+msgstr "Predmet"
+
+#: admin/form.php:77
+msgid "From Address"
+msgstr "Adresa odosielateľa"
+
+#: admin/form.php:78
+msgid "From Name"
+msgstr "Meno odosielateľa"
+
+#: admin/form.php:79
+msgid "Notify To"
+msgstr "Upozornenie pre"
+
+#: admin/form.php:80
+msgid "You can also send a copy of the thank-you-mail to another address."
+msgstr "Môžeš poslať kópiu ďakovného emailu aj inému prijímateľovi"
+
+#: admin/form.php:81
+msgid "Text Body"
+msgstr "Text správy"
+
+#: admin/form.php:82
+msgid "HTML Body"
+msgstr "HTML správa"
+
+#: admin/form.php:83
+msgid "Leave here blank if you don't want to send email in HTML format."
+msgstr "Nechaj prázdne, pokiaľ nechceš posielať email v HTML formáte"
+
+#: admin/form.php:84
+msgid "Save"
+msgstr "Uložiť"
+
+#: admin/form.php:85
+msgid "Form Details"
+msgstr "Detaily formuláru"
+
+#: admin/form.php:86
+msgid "Form saved."
+msgstr "Formulár uložený"
+
+#: admin/form.php:87 admin/orderList.php:15 admin/settings.php:12
+msgid "Dismiss this notice."
+msgstr "Zrušiť toto upozornenie"
+
+#: admin/form.php:88
+msgid "General"
+msgstr "Hlavné"
+
+#: admin/form.php:89
+msgid "Details"
+msgstr "Detaily"
+
+#: admin/form.php:90
+msgid "Attributes"
+msgstr "Atribúty"
+
+#: admin/form.php:91
+msgid "Mail"
+msgstr "Email"
+
+#: admin/form.php:92
+msgid "should NOT be shorter than 1 characters"
+msgstr "nemalo by byť kratšie ako 1 znak"
+
+#: admin/form.php:93
+msgid "Changes committed. Be sure to save data before moving to another page."
+msgstr "Zmeny potvrdené. Nezabudni uložiť údaje pred prejdením na inú stránku"
+
+#: admin/form.php:94 admin/form.php:95
+msgid "should match pattern"
+msgstr "mal by zodpovedať vzoru"
+
+#: admin/form.php:96 admin/formList.php:13
+msgid "Preview"
+msgstr "Ukážka"
+
+#: admin/form.php:97
+msgid "Display Confirmation Screen"
+msgstr "Zobraz obrazovku potvrdenia"
+
+#: admin/form.php:98
+msgid "Display"
+msgstr "Zobraz"
+
+#: admin/form.php:99
+msgid "Don't Display"
+msgstr "Nezobraz"
+
+#: admin/form.php:100
+msgid "Type"
+msgstr "Typ"
+
+#: admin/form.php:101
+msgid "should match format \"uri\""
+msgstr "musí zodpovedať formátu \"uri\""
+
+#: admin/form.php:102
+msgid "Thanks Url"
+msgstr "Url ďakovnej stránky"
+
+#: admin/form.php:103
+msgid "If you want to display another page after submitting the form, enter the URL."
+msgstr "Pokiaľ chceš zobraziť inú stránku po odoslaní formuláru, vlož URL odkaz stránky"
+
+#: admin/formList.php:5
+msgid "Form List"
+msgstr "Zoznam formulárov"
+
+#: admin/formList.php:6
+msgid "Add New"
+msgstr "Pridaj nový"
+
+#: admin/formList.php:7
+msgid "ID"
+msgstr "ID"
+
+#: admin/formList.php:9
+msgid "Author"
+msgstr "Autor"
+
+#: admin/formList.php:10
+msgid "Date"
+msgstr "Dátum"
+
+#: admin/formList.php:11
+msgid "Edit"
+msgstr "Uprav"
+
+#: admin/formList.php:12
+msgid "Trash"
+msgstr "Kôš"
+
+#: admin/formList.php:14
+msgid "Do You Want To Remove This Form?"
+msgstr "Chceš odstrániť tento formulár?"
+
+#: admin/formList.php:15
+msgid "Form deleted."
+msgstr "Formulár odstránený."
+
+#: admin/formList.php:17
+msgid "Form duplicated."
+msgstr "Formulár zduplikovaný"
+
+#: admin/orderList.php:5
+msgid "$countPrefix"
+msgstr ""
+
+#: admin/orderList.php:6
+msgid "$countSuffix"
+msgstr " items"
+
+#: admin/orderList.php:7
+msgid "$idPrefix"
+msgstr ""
+
+#: admin/orderList.php:8
+msgid "$idSuffix"
+msgstr ""
+
+#: admin/orderList.php:9 front/form.php:19
+msgid "$pricePrefix"
+msgstr "$"
+
+#: admin/orderList.php:10 front/form.php:20
+msgid "$priceSuffix"
+msgstr ""
+
+#: admin/orderList.php:11 front/form.php:21
+msgid "Subtotal"
+msgstr "Celková cena"
+
+#: admin/orderList.php:12 front/form.php:22
+msgid "Tax"
+msgstr "Daň"
+
+#: admin/orderList.php:13 front/form.php:23
+msgid "Total"
+msgstr "Spolu"
+
+#: admin/orderList.php:14
+msgid "Order List"
+msgstr "Zoznam objednávok"
+
+#: admin/orderList.php:16
+msgid "Summary"
+msgstr "Zhrnutie"
+
+#: admin/orderList.php:17
+msgid "Form"
+msgstr "Formulár"
+
+#: admin/orderList.php:18
+msgid "Customer"
+msgstr "Zákazník"
+
+#: admin/orderList.php:19
+msgid "Close"
+msgstr "Zatvor"
+
+#: admin/orderList.php:21
+msgid "Open"
+msgstr "Otvor"
+
+#: admin/orderList.php:22
+msgid "guest"
+msgstr "hosť"
+
+#: admin/orderList.php:23
+msgid "There are no orders yet."
+msgstr "Zatiaľ nie sú žiadne objednávky"
+
+#: admin/orderList.php:24
+msgid "Current Page"
+msgstr "Aktuálna stránka"
+
+#: admin/orderList.php:25
+msgid "First Page"
+msgstr "Prvá stránka"
+
+#: admin/orderList.php:26
+msgid "Prev Page"
+msgstr "Predchádzajúca stránka"
+
+#: admin/orderList.php:27
+msgid "Next Page"
+msgstr "Ďalšia stránka"
+
+#: admin/orderList.php:28
+msgid "Last Page"
+msgstr "Posledná stránka"
+
+#: admin/orderList.php:29
+msgid "Input a valid page number."
+msgstr "Vlož platné číslo stránky"
+
+#: admin/orderList.php:30
+msgid "Do You Want To Remove This Order?"
+msgstr "Chceš odstrániť túto objednávku?"
+
+#: admin/orderList.php:31
+msgid "Order deleted."
+msgstr "Objednávka odstránená"
+
+#: admin/settings.php:5
+msgid "Form Settings"
+msgstr "Nastavenie formuláru"
+
+#: admin/settings.php:6
+msgid "Round Down"
+msgstr "Zaokrúhliť dole"
+
+#: admin/settings.php:7
+msgid "Round Up"
+msgstr "Zaokrúhliť hore"
+
+#: admin/settings.php:8
+msgid "Round Off"
+msgstr "Zaokrúhliť"
+
+#: admin/settings.php:9
+msgid "Truncate"
+msgstr "Skrátiť"
+
+#: admin/settings.php:10
+msgid "should be integer"
+msgstr "malo by byť celé číslo"
+
+#: admin/settings.php:11
+msgid "Settings saved."
+msgstr "Nastavenia uložené"
+
+#: admin/settings.php:13
+msgid "Fraction Treatment"
+msgstr "Frakčné spracovanie"
+
+#: admin/settings.php:14
+msgid "Tax Included"
+msgstr "Daň zahrnutá"
+
+#: admin/settings.php:15
+msgid "Tax Excluded"
+msgstr "Daň nezahrnutá"
+
+#: admin/settings.php:16
+msgid "Tax Rate"
+msgstr "Výška dane"
+
+#: admin/settings.php:17
+msgid "%"
+msgstr ""
+
+#: admin/settings.php:18
+msgid "Fraction Processing"
+msgstr "Spracovanie frakcií"
+
+#: admin/settings.php:19
+msgid "Processing Precision"
+msgstr "Presnosť spracovania"
+
+#: admin/settings.php:20
+msgid ""
+"The number of digits left by rounding. If \"1\" is specified, the processing "
+"result will be \"12.3\"."
+msgstr ""
+"Počet číslic ponechaných zaokrúhlovaním. Pokiaľ \"1\" špecifikované, tak výsledok "
+"spracovania bude \"12.3\"."
+
+#: admin/settings.php:21
+msgid "Save Changes"
+msgstr "Uložiť zmeny"
+
+#: admin/settings.php:22
+msgid "Tax Notation"
+msgstr "Daňové notácie"
+
+#: front/form.php:13
+msgid "No"
+msgstr "Nie"
+
+#: front/form.php:15
+msgid "Entry"
+msgstr "Vstup"
+
+#: front/form.php:16
+msgid "Unit Price"
+msgstr "Cena za jednotku"
+
+#: front/form.php:17
+msgid "Quantity"
+msgstr "Množstvo"
+
+#: front/form.php:24
+msgid "required"
+msgstr "požadované"
+
+#: front/form.php:25
+msgid "Input here"
+msgstr "Vložte sem"
+
+#: front/form.php:26
+msgid "Invalid"
+msgstr "Neplatné"
+
+#: front/form.php:27
+msgid "Check here"
+msgstr "Zaškrtnite"
+
+#: front/form.php:28
+msgid "Select here"
+msgstr "Vyberte"
+
+#: front/form.php:29
+msgid "Repeat here"
+msgstr "Opakujte"
+
+#: front/form.php:30
+msgid "Zip"
+msgstr "PSČ"
+
+#: front/form.php:31
+msgid "To Confirmation Screen"
+msgstr "Pokračovať na kontrolu údajov"
+
+#: front/form.php:32
+msgid "Your Name"
+msgstr "Vaše meno"
+
+#: front/form.php:33
+msgid "First Name"
+msgstr "Krstné meno"
+
+#: front/form.php:34
+msgid "Last Name"
+msgstr "Priezvisko"
+
+#: front/form.php:35
+msgid "info@example.com"
+msgstr "info@niečo.sk"
+
+#: front/form.php:36
+msgid "Confirm again"
+msgstr "Zopakujte"
+
+#: front/form.php:37
+msgid "03-1111-2222"
+msgstr "0900 111 222"
+
+#: front/form.php:38
+msgid "000-0000"
+msgstr "00000"
+
+#: front/form.php:39
+msgid "Tokyo"
+msgstr "Štát"
+
+#: front/form.php:40
+msgid "Chiyoda-ku"
+msgstr "Mesto"
+
+#: front/form.php:41
+msgid "1-1-1, Chiyoda"
+msgstr "Ulica"
+
+#: front/form.php:42
+msgid "Chiyoda mansion 8F"
+msgstr "Miestnosť"
+
+#: front/form.php:43
+msgid "Processing stopped due to preview mode."
+msgstr "Spracovanie ukončené kvôli testovacej ukážke"
+
+#: front/form.php:44
+msgid "Submit"
+msgstr "Odoslať"
+
+#: front/form.php:45
+msgid "Back"
+msgstr "Späť"
+
+#: front/form.php:46
+msgid "Please check your entry."
+msgstr "Prosím, skontrolujte údaje"
+
+#: App/Admin/FormRef.php:38
+msgid "$defaultSubject"
+msgstr "Ďakujeme za objednávku"
+
+#: App/Admin/FormRef.php:40
+msgid "$defaultFromName"
+msgstr ""
+
+#: App/Admin/FormRef.php:41
+msgid "$defaultNotifyTo"
+msgstr ""
+
+#: App/Admin/FormRef.php:42
+msgid "$defaultTextBody"
+msgstr "Ďakujeme za objednávku."
+
+#: App/Admin/FormRef.php:46
+msgid "New Form"
+msgstr "Nový formulár"
+
+#: App/Admin/FormDup.php:36
+msgid "%s Copy"
+msgstr ""
+
+#: Domain/MailComposer.php:28
+msgid "%s (x %s) $%s"
+msgstr "%s (x %s) €%s"
+
+#: Domain/MailComposer.php:43
+msgid "Subtotal: $%s"
+msgstr "Medzisúčet: €%s"
+
+#: Domain/MailComposer.php:44
+msgid "Tax: $%s"
+msgstr "Daň: €%s"
+
+#: Domain/MailComposer.php:45
+msgid "Total: $%s"
+msgstr "Spolu: €%s"
+
+#: Domain/MailComposer.php:58
+msgid "== %s ==\n%s"
+msgstr ""
+
+#: a-forms.php:80
+msgid "Forms"
+msgstr "Formuláre"
+
+#: a-forms.php:81
+msgid "Orders"
+msgstr "Objednávky"
+
+#: front/form.php:47
+msgid "Hide Monitor"
+msgstr "Skryť monitor"
+
+#: front/form.php:48
+msgid "Show Monitor"
+msgstr "Ukázať monitor"
+
+#: front/form.php:49
+msgid "Start Order"
+msgstr "Začať objednávať"
+
+#: front/form.php:51
+msgid "Previous"
+msgstr "Predchádzajúce"
+
+#: front/form.php:52
+msgid "Next"
+msgstr "Ďalšie"
+
+#: front/form.php:53
+msgid "There exists uninput item."
+msgstr "Niektoré položky neboli vybraté"
+
+#: admin/form.php:104
+msgid "Navigator"
+msgstr "Navigácia"
+
+#: admin/form.php:105
+msgid "Flow format"
+msgstr "Vzhľad formátu"
+
+#: admin/form.php:106
+msgid "Wizard format"
+msgstr "Formát kúzelníka"
+
+#: admin/form.php:107
+msgid "Price Checker"
+msgstr "Kontrola cien"
+
+#: admin/form.php:108
+msgid "Equation"
+msgstr "Rovnica"
+
+#: admin/form.php:109
+msgid "Threshold"
+msgstr "Prah"
+
+#: admin/form.php:110
+msgid "Equal"
+msgstr "Rovné"
+
+#: admin/form.php:111
+msgid "Not Equal"
+msgstr "Iné"
+
+#: admin/form.php:112
+msgid "Greater Than"
+msgstr "Väčšie ako"
+
+#: admin/form.php:113
+msgid "Greater Equal"
+msgstr "Väčšie rovné"
+
+#: admin/form.php:114
+msgid "Less Than"
+msgstr "Menšie ako"
+
+#: admin/form.php:115
+msgid "Less Equal"
+msgstr "Menšie rovné"
+
+#: admin/form.php:116
+msgid "Adds a fixed detail line."
+msgstr "Pridá fixovaný riadok detailu"
+
+#: admin/form.php:117
+msgid "Monitors the estimated price and gives labels if condition is met."
+msgstr "Monitoruje odporúčanú ceny a pridá značku ak sa dosiahne"
+
+#: admin/form.php:118
+msgid "Creates a group of choices."
+msgstr "Vytvorí skupinu na výber"
+
+#: admin/form.php:119
+msgid "Adds a detail line if selected."
+msgstr "Pridá riasok detailu ak vybraté"
+
+#: admin/form.php:120
+msgid "You can insert the following data into the text body."
+msgstr "Môžeš vložiť nasledovné dáta do textu správy"
+
+#: admin/form.php:121
+msgid "Order id"
+msgstr "Id objednávky"
+
+#: admin/form.php:122
+msgid "Detail lines"
+msgstr "Riadky detailov"
+
+#: admin/form.php:123
+msgid "Total; In case of tax-excluded notation, subtotal and tax are included."
+msgstr "Spolu; V prípade nezahrnutia dane, medzisúčet a daň sú pridané"
+
+#: admin/form.php:124
+msgid "Customer attributes"
+msgstr "Atribúty zákazníka"
+
+#: admin/form.php:125
+msgid "Customer name; Available only when using Name control."
+msgstr "Meno zákazníka; dostupné iba keď sa používa kontrola mien"
+
+#: admin/form.php:126
+msgid "Customer mail address; Available only when using MailAddress control."
+msgstr "Email zákazníka; dostupné iba ak sa používa kontrola emailových adries"
+
+#: front/form.php:54
+msgid "The form has been successfully submitted."
+msgstr "Formulár bol úspešne odoslaný"
+
+#: front/form.php:55
+msgid "^[0-9]{3}-?[0-9]{4}$"
+msgstr "^[0-9]{5}$"
+
+#: front/form.php:56
+msgid "Checked"
+msgstr "Potvrdené"
+
+#: aforms.php:5
+msgid "Form builder for Cost estimation and ordering which you can customize straightforwardly. If you have any problems or feature requests for this plugin, also <strong>requests for installation or customization</strong>, please feel free to <a href=\"https://a-forms.com/en/contact/\" target=\"_blank\">contact us</a>."
+msgstr "Tvorba formulárov pre odhad cien a objednávanie, ktoré môžete upraviť podľa seba. Pokiaľ máte akýkoľvek problém alebo záujem o pridanie funkcií pluginu, alebo <strong>požiadavku na inštaláciu prípadne úpravu</strong>, prosím, neváhajte nás <a href=\"https://a-forms.com/en/contact/\" target=\"_blank\">kontaktovať</a>."
+
+#: admin/form.php:127
+msgid "Separete with \",\". This item is availble only if all labels listed are satisfied."
+msgstr "Oddeľte pomocou \",\". Táto položka je dostupná iba v prípade, ak sú splnené všetky potrebné značky"
+
+#: admin/form.php:128
+msgid "Separate with \",\". If the conditions are met, all the labels listed will be awarded."
+msgstr "Oddeľte pomocou \",\". Pokiaľ sú podmienky splnené, všetky zadané značky budú prisúdené"
+
+#: admin/form.php:129
+msgid "Separate with \",\". If this option is selected, all the labels listed will be awarded."
+msgstr "Oddeľte pomocou \",\". Ak je podmienka označená, všetky značky budú prisúdené"
+
+#: admin/form.php:130
+msgid "New Quantity Item"
+msgstr "Nové množstvo"
+
+#: admin/form.php:131
+msgid "Quantity Item"
+msgstr "Množstvo položiek"
+
+#: admin/form.php:132
+msgid "Fixed To 1"
+msgstr "Fixované na 1"
+
+#: admin/form.php:133
+msgid "Allows Fraction"
+msgstr "Povoľ frakcie"
+
+#: admin/form.php:134
+msgid "Input if you want to add a unit to the input field."
+msgstr "Vlož, pokiaľ chceš pridať jednotku do vstupného poľa"
+
+#: admin/form.php:135
+msgid "Minimum Value"
+msgstr "Minimálna hodnota"
+
+#: admin/form.php:136
+msgid "Maximum Value"
+msgstr "Maximálna hodnota"
+
+#: front/form.php:57
+msgid "Too small"
+msgstr "Príliž malé"
+
+#: front/form.php:58
+msgid "Too large"
+msgstr "Príliž veľké"
+
+#: admin/form.php:137
+msgid "Prompts quantity."
+msgstr "Zvýšenie množstva."
+
+#: admin/form.php:138
+msgid "Initial Value"
+msgstr "Základná hodnota"
+
+#: admin/form.php:139
+msgid "Unit"
+msgstr "Jednotka"
+
+#: admin/form.php:140
+msgid "Can be empty."
+msgstr "Môže byť prázdne."
+
+#: admin/form.php:142
+msgid "Off"
+msgstr "Vypnúť"
+
+#: admin/form.php:143
+msgid "On"
+msgstr "Zapnúť"
+
+#: admin/form.php:144
+msgid "Dropdown"
+msgstr "Padacie"
+
+#: front/form.php:59
+msgid "Please select"
+msgstr "Prosím vyber"
+
+#: Domain/InputProcessor.php:220
+msgid "reCAPTCHA Result"
+msgstr "reCAPTCHA výsledok"
+
+#: admin/form.php:145
+msgid "Site Key"
+msgstr "Kľúč stránky"
+
+#: admin/form.php:146
+msgid "Secret Key"
+msgstr "Tajný kľúč"
+
+#: admin/form.php:147
+msgid "Action"
+msgstr "Akcia"
+
+#: admin/form.php:148
+msgid "Soft-Pass Score"
+msgstr "Mäkký limit skóre"
+
+#: admin/form.php:149
+msgid "If the score is lower than this value, AForms considers that the submission is somewhat unreliable and email notifications to administrators will be omitted."
+msgstr "Pokiaľ je skóre nižšie ako táto hodnota, AForms sa domnieva, že požiadavka je nespoľahlivá a administrátor nedostane oznámenie."
+
+#: admin/form.php:150
+msgid "Failure Score"
+msgstr "Zlé skóre"
+
+#: admin/form.php:151
+msgid "If the score is lower than this value, AForms blocks the submission and show an error to customer."
+msgstr "Pokiaľ je skóre nižšie ako táto hodnota, AForms blokuje požiadavku a zobrazí hlásenie zákazníkovi."
+
+#: admin/form.php:152
+msgid "A string that identifies the user's action. Refer: "
+msgstr "Reťazec, ktorý identifikuje činnosť používateľa. Odkaz: "
+
+#: admin/form.php:153
+msgid "Auto Completion"
+msgstr "Auto-vyplnenie"
+
+#: admin/form.php:154
+msgid "Choose a service to auto-complete address from zip code."
+msgstr "Vyber službu pre auto-vyplnenie adresy podľa PSČ"
+
+#: admin/form.php:155
+msgid "None"
+msgstr "Žiadna"
+
+#: admin/form.php:156
+msgid "Yubinbango (Japan)"
+msgstr ""
+
+#: admin/form.php:157
+msgid "Input Restriction"
+msgstr "Vstup zakázaný"
+
+#: admin/form.php:158
+msgid "Japanese Hiragana"
+msgstr ""
+
+#: admin/form.php:159
+msgid "Japanese Katakana"
+msgstr ""
+
+#: front/form.php:62
+msgid "optional"
+msgstr "voliteľné"
+
+#: admin/form.php:160
+msgid "Price Checker (OBSOLETED)"
+msgstr "Kontrola ceny (ZASTARANÉ)"
+
+#: admin/form.php:161
+msgid "Monitors the estimated price and gives labels if condition is met. This item is OBSOLETED and deleted in the near future."
+msgstr "Monitorovanie odhadovanej ceny a značenie príznaku. Táto položka je zastaraná a bude odstránená v blízkej budúcnosti"
+
+#: admin/form.php:162
+msgid "Price Watcher"
+msgstr "Strážca ceny"
+
+#: admin/form.php:163
+msgid "Lower Limit Value"
+msgstr "Nižší limit ceny"
+
+#: admin/form.php:164
+msgid "Leave this blank if there are no lower limit."
+msgstr "Nechaj prázdne, pokiaľ nie je nižší limit"
+
+#: admin/form.php:165
+msgid "Includes Lower Limit Value"
+msgstr "Zahŕnie nižší limit ceny"
+
+#: admin/form.php:166
+msgid "Include"
+msgstr "Zahrň"
+
+#: admin/form.php:167
+msgid "Don't Include"
+msgstr "Nezahrň"
+
+#: admin/form.php:168
+msgid "Includes Higher Limit Value"
+msgstr "Zahrň vyšší limit ceny"
+
+#: admin/form.php:169
+msgid "Higher Limit Value"
+msgstr "Vyšší limit ceny"
+
+#: admin/form.php:170
+msgid "Leave this blank if there are no higher limit."
+msgstr "Nechaj prázdne, pokiaľ nie je vyšší limit ceny"
+
+#: admin/form.php:171
+msgid "Monitors the estimated price and gives labels if the price is included in a spacified range."
+msgstr "Monitorovanie odhadovanej ceny a značenie je zahrnuté v špecifickom rozsahu"
+
+#: admin/orderList.php:32
+msgid ", "
+msgstr ""
+
+#: admin/form.php:172
+msgid "Multiple Checkbox"
+msgstr "Viacnásobný výber"
+
+#: admin/form.php:173
+msgid "reCAPTCHA v3"
+msgstr ""
+
+#: admin/form.php:174
+msgid "Ribbons"
+msgstr ""
+
+#: admin/form.php:175, front/form.php:63
+msgid "$ribbon1"
+msgstr "SALE"
+
+#: admin/form.php:176, front/form.php:64
+msgid "$ribbon2"
+msgstr "RECOMMENDED"
+
+#: admin/form.php:177, front/form.php:65
+msgid "$ribbon3"
+msgstr ""
+
+#: admin/form.php:178
+msgid "Slider Item"
+msgstr ""
+
+#: admin/form.php:179
+msgid "Prompts to enter the quantity with slider."
+msgstr ""
+
+#: admin/form.php:180
+msgid "Step Value"
+msgstr ""
+
+#: admin/form.php:181
+msgid "New Slider Item"
+msgstr ""
